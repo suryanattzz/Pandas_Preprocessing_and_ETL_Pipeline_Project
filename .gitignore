@@ -37,9 +37,8 @@ MANIFEST
 *.docx
 *.doc
 
-# Jupyter Notebook
-.ipynb_checkpoints
-*.ipynb
+# Jupyter Notebook (keep checkpoints ignored, but allow .ipynb files)
+.ipynb_checkpoints/
 
 # IDE
 .vscode/
@@ -60,7 +59,5 @@ ehthumbs.db
 
 # Project specific
 *.log
-*.csv
-output/
 temp/
 debug/
