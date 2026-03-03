@@ -168,7 +168,7 @@ def load(df_sales, df_customers):
         print(f"\n❌ ERROR: Failed to save output files!")
         print(f"   {str(e)}")
         print("\n   Pipeline aborted.")
-        exit(1)    
+        exit(1)
 
 
 def main():
