@@ -1,130 +1,102 @@
 # Pandas Preprocessing & ETL Pipeline Project
 
-**Customer Transaction and Sales - Data Cleaning & Automated ETL**
+## Project Overview
+
+This project processes **two data domains** using Pandas and modular ETL pipelines:
+
+1. **Sales + Customer data**
+2. **Orders + Products data**
+
+Each domain has:
+- preprocessing notebooks for analysis/cleaning
+- an ETL script with `extract()`, `transform()`, `load()`, `main()`
 
 ---
 
-## 📋 Project Overview
+## Data Domains
 
-This project demonstrates **Pandas data preprocessing** and **ETL pipeline creation** using real-world sales and customer data.
+### 1) Sales & Customer
+- Raw input: `data/raw/sales_data.csv`, `data/raw/customer_data.json`
+- Processed files: `data/processed/processed_sales_data.csv`, `data/processed/processed_customer_data.csv`
+- ETL output reports: `output/sales_report.csv`, `output/customer_report.csv`
 
-**Approach:**
-- **Approach 1:** Interactive Jupyter notebooks for data exploration & cleaning
-- **Approach 2:** Production Python script with modular ETL architecture
-
----
-
-## 📊 Data & Cleaning Tasks
-
-### Sales Data (`sales_data.csv` - 2,062 rows)
-- Contains missing values
-- Mixed date formats (YYYY-MM-DD, DD/MM/YYYY)
-
-### Customer Data (`customer_data.json` - 2,002 rows)
-- Contact validation: email & phone (regex)
-- Missing values
-- Mixed date formats
+### 2) Orders & Products
+- Raw input: `data/raw/orders.csv`, `data/raw/products.json`
+- Processed file: `data/processed/processed_orders_data.csv`
+- ETL output reports: `output/orders_report.csv`, `output/products_report.csv`
 
 ---
 
-## 🔍 Approach 1: Interactive Notebooks
+## ETL Pipelines
 
-Three notebooks for exploratory analysis:
+### Sales & Customer ETL
+- Script: `etl/etl_pipeline.py`
+- Run from project root:
 
-1. **sales_data_preprocessing.ipynb**
-   - `.fillna()` - Handle nulls
-   - `pd.to_datetime(format='mixed')` - Date conversion
-   - `.duplicated()` / `.drop_duplicates()` - Duplicate removal
-   - `.str.title()` - String formatting
-   - `np.isclose()` - Validation
-
-2. **customer_data_preprocessing.ipynb**
-   - Regex validation (email, phone)
-   - Date parsing for multiple columns
-   - Currency symbol removal with regex
-   - `.astype()` - Type conversion
-
-3. **bussiness_reports.ipynb**
-   - `.groupby()` aggregations
-   - `.sum()`, `.mean()`, `.idxmax()`
-   - Visualizations (matplotlib/plotly)
-
-**Output:** `processed_sales_data.csv`, `processed_customer_data.csv`
-
----
-
-## ⚙️ Approach 2: Production ETL Pipeline
-
-**Script:** `etl_pipeline.py`
-
-**Architecture** (4 Functions):
-
-```python
-extract()        # Load CSV & JSON files + error handling
-transform()      # Apply all preprocessing logic
-load()           # Save to output/ folder
-main()           # Orchestrate pipeline
-```
-
-**Features:**
-- ✅ Modular design
-- ✅ Error handling (try/except)
-- ✅ Progress logging (print statements)
-- ✅ Data validation at each stage
-- ✅ No hardcoded values
-
-**Run:**
 ```bash
-python etl_pipeline.py
+python etl/etl_pipeline.py
 ```
 
-**Output:**
-```
-output/
-├── sales_report.csv (2,002 clean rows)
-└── customer_report.csv (2,002 clean rows)
+### Orders & Products ETL
+- Script: `etl/etl_orders_products_pipeline.py`
+- Run from project root:
+
+```bash
+python etl/etl_orders_products_pipeline.py
 ```
 
 ---
 
-## 📁 Project Structure
+## Notebooks
+
+### Sales & Customer notebooks
+- `notebooks/sales_data_preprocessing.ipynb`
+- `notebooks/customer_data_preprocessing.ipynb`
+- `notebooks/bussiness_reports.ipynb`
+
+### Orders & Products notebooks
+- `notebooks/orders_data_preprocessing.ipynb`
+- `notebooks/bussiness_reports_orders_product.ipynb`
+- `notebooks/report_orders_products.ipynb`
+
+---
+
+## Folder Structure
 
 ```
 Pandas - ZipMart Sales Intelligence Pipeline/
-├── sales_data.csv
-├── customer_data.json
-│
-├── sales_data_preprocessing.ipynb
-├── customer_data_preprocessing.ipynb
-├── bussiness_reports.ipynb
-│
-├── etl_pipeline.py          # Production ETL
-├── output/                  # Generated reports
+├── data/
+│   ├── raw/
+│   │   ├── customer_data.json
+│   │   ├── orders.csv
+│   │   ├── products.json
+│   │   └── sales_data.csv
+│   └── processed/
+│       ├── processed_customer_data.csv
+│       ├── processed_orders_data.csv
+│       └── processed_sales_data.csv
+├── etl/
+│   ├── etl_pipeline.py
+│   └── etl_orders_products_pipeline.py
+├── notebooks/
+├── output/
 ├── .gitignore
 └── README.md
 ```
 
 ---
 
-## 🎓 Pandas Concepts Covered
+## Key Pandas Operations Used
 
-| Concept | Methods Used |
-|---------|--------------|
-| **Null Handling** | `.fillna()`, `.isnull()`, `.dropna()` |
-| **Date Processing** | `pd.to_datetime()`, `.dt` accessors |
-| **String Operations** | `.str.title()`, `.str.match()`, regex |
-| **Duplicates** | `.duplicated()`, `.drop_duplicates()` |
-| **Aggregations** | `.groupby()`, `.sum()`, `.mean()`, `.idxmax()` |
-| **Validation** | `np.isclose()`, regex patterns |
-| **Data Export** | `.to_csv()`, `.to_json()` |
+- Null handling: `fillna`, `isnull`
+- Date conversion: `pd.to_datetime(..., format='mixed')`
+- Duplicate handling: `duplicated`, `drop_duplicates`
+- String cleanup: `str.title`, regex-based replacement
+- Aggregation/reporting: `groupby`, `sum`, `mean`, ranking/index methods
 
 ---
 
-## 📊 Cleaning Results
+## Notes
 
-| Metric | Before | After |
-|--------|--------|-------|
-| Sales Rows | 2,062 | 2,002 |
-| Null Values | 120+ | 0 |
-| Duplicates | 60 | 0 |
-| Date Format | Mixed | ISO 8601 |
+- All paths in ETL scripts and notebooks are aligned to the new folder layout.
+- Keep generated report files in `output/` and processed intermediate files in `data/processed/`.

@@ -1,0 +1,2031 @@
+order_id,product_id,quantity,order_date,customer_city,payment_mode,order_status
+ORD2263,P009,1,10-02-2025,delhi,cash on delivery,Delivered
+ORD1298, P003,10,Dec 25 2024,PUNE,CashonDelivery,Delivered
+ORD1060,P002,8,02/05/2025,Pune,net banking,Cancelled
+ORD2697,P002,9,2024-12-13,Ahmedabad,Cash on Delivery,Delivered
+ORD1744,P008,2,Dec 07 2024,mumbai,Net Banking,Delivered
+ORD2544,P033,3,05-01-2025,Ahmedabad,Cash on Delivery,Delivered
+ORD1977,P002,1,13/12/2024,Delhi ,upi,Delivered
+ORD1353,p034,7,01/29/2025,mumbai,DebitCard,Delivered
+ORD2432,P033,2,22/01/2025,Delhi,net banking,Delivered
+ORD2402,P007,1,2024-12-18,BENGALURU,NET BANKING,Cancelled
+ORD1690,P035,9,18/12/2024,chennai,Cash on Delivery,Delivered
+ORD1944,P013,1,2025-02-28,Hyderabad,Cash on Delivery,Delivered
+ORD2729,P-011,4,18-01-2025,Mumbai,UPI,Delivered
+ORD2996,P022,2,09-Dec-24,AHMEDABAD,CASH ON DELIVERY,Delivered
+ORD2182,P037,8,23/01/2025,Bengaluru,Net Banking,Delivered
+ORD1856,P006,8,20-Dec-24,chennai,Debit Card,Delivered
+ORD1088,p013,10,05-01-2025,hyderabad,Cash_on_Delivery,Returned
+ORD2625, P018,5,24/02/2025,bengaluru,Credit Card,Cancelled
+ORD2762,P021,4,12/05/2024,Delhi,NetBanking,Cancelled
+ORD2692,P012,,07-Dec-24,Hyderabad,upi,Returned
+ORD1036,P015,8,Feb 09 2025,Ahmedabad,Credit_Card,Cancelled
+ORD2385,P021,2,14-02-2025,Ahmedabad,debit card,Returned
+ORD2523,P023,5,2025-01-26,Kolkata,Net Banking,Delivered
+ORD2151,P029,2,2025-02-03,ahmedabad,DEBIT CARD,Returned
+ORD2400,p003,2,23/02/2025,AHMEDABAD,Cash on Delivery,Returned
+ORD1732,P036,4,2025-01-23,Kolkata,Debit Card,Returned
+, P023,2,18-12-2024,Mumbai,upi,Cancelled
+ORD1066,P006,5,22-Feb-25,Bengaluru,UPI,Delivered
+ORD1938, P001,9,2024-12-25,chennai,Net Banking,Cancelled
+ORD1035,P002,8,01 January 2025,Delhi,Cash on Delivery,Delivered
+ORD2886,P040,9,01-12-2024,Bengaluru,Cash on Delivery,Cancelled
+ORD2600,p101,2,27 January 2025,Ahmedabad,Credit_Card,Delivered
+ORD2005,P006,8,2025-01-26,pune,UPI,Returned
+ORD1451, P016,8,17/01/2025, Delhi,Credit Card,Returned
+ORD1126,p018,7,19/02/2025,Chennai ,debit card,Delivered
+ORD1745,P036,4,04 January 2025,Ahmedabad,Credit Card,Delivered
+ORD2634,P013,6,07 February 2025,Bengaluru,UPI,Delivered
+ORD1963,P018,5,24-Dec-24,Pune,credit card,Returned
+ORD1458,P026,2,2025-01-31,Mumbai,CREDIT CARD,Cancelled
+ORD2742,P029,2,2025-01-02,Chennai,CREDIT CARD,Delivered
+ORD2338,P026,10,28-12-2024,Delhi ,Net Banking,Returned
+ORD2590,p032,5,03-01-2025,chennai,UPI,Returned
+ORD2358,P039,3,02/22/2025,Hyderabad,Credit Card,Cancelled
+ORD2249,P039,9,18-Dec-24,MUMBAI,Credit Card,Delivered
+,P015,0,27/12/2024,Delhi,Net Banking,Delivered
+ORD2431,P016,9,25-Jan-25,Hyderabad,CREDIT CARD,Delivered
+ORD2889,P016,-2,10/12/2024,Mumbai,Debit Card,Delivered
+ORD1279,P039,10,01/07/2025,Ahmedabad,Credit Card,Delivered
+ORD1567,p007,2,12-Jan-25, Chennai,upi,Cancelled
+,P011,3,23 February 2025,Chennai,UPI,Returned
+ORD1896,P012,8,02/10/2025,Hyderabad,Credit Card,Cancelled
+ORD2257,P011,6,02/27/2025,Hyderabad,Debit_Card,Cancelled
+ORD2966,P022,10,12/19/2024,Kolkata,net banking,Returned
+ORD2914,p021,4,Jan 10 2025,Hyderabad,UPI,Delivered
+N/A, P009,8,16-Feb-25,Hyderabad,UPI,Delivered
+ORD1828,P036,4,11/02/2025,Bengaluru,Credit Card,Delivered
+ORD1727,P017,4,2025-02-02,Kolkata,Net Banking,Returned
+ORD1737,P014,2,Feb 28 2025,Bengaluru,Credit Card,Delivered
+ORD2855,P012,3,09 February 2025,Hyderabad,net banking,Delivered
+ORD1003,P004,10,2025-01-18,Delhi,Debit Card,Returned
+ORD2277,P006 ,1,15-Feb-25,PUNE,Cash on Delivery,Returned
+ORD1747,P009,8,10 December 2024,Bengaluru,UPI,Delivered
+ORD2739,p001,2,11-01-2025,bengaluru,CreditCard,Delivered
+ORD1127,P035,6,10/01/2025,pune,Cash_on_Delivery,Delivered
+ORD2034,P011,7,2024-12-21,Bombay,Debit Card,Cancelled
+ORD1561,p014,4,28-02-2025,MUMBAI,UPI,Delivered
+ORD2877,P028,6,12/08/2024,Chennai,Debit Card,Delivered
+ORD2527,P009,6,02/24/2025,kolkata,Credit Card,Delivered
+ORD2332,P036,10,2025-01-12,AHMEDABAD,Debit Card,Cancelled
+ORD1890,P019,4,21-Feb-25,Chennai,Debit Card,Returned
+ORD1564,P008,1,Feb 05 2025,chennai,Credit Card,Returned
+ORD2943,P005,1,Jan 01 2025, Kolkata,Cash on Delivery,Delivered
+ORD1678,p035,7,20-Jan-25,BENGALURU,Cash on Delivery,Delivered
+ORD1204,P018 ,1,15-02-2025,Delhi,NET BANKING,Returned
+ORD2019,P002,7,27 February 2025,Bengaluru,Credit Card,Delivered
+,P020 ,5,16-12-2024,Pune,DEBIT CARD,Returned
+ORD2046,P008,5,01/11/2025,Hyderabad,Net Banking,Delivered
+ORD2220,P012,2,13/02/2025,HYDERABAD,Credit Card,Delivered
+ORD1499, P001,4,20-Jan-25,Chennai,Debit Card,Delivered
+ORD1325,P003,9,23 February 2025,Ahmedabad,Net Banking,Delivered
+ORD1118,P022,2,2025-02-25,ahmedabad,DEBIT CARD,Delivered
+ORD2063, P030,4,23 December 2024,Bengaluru,net banking,Returned
+ORD1361,P036 ,9,2024-12-30,Mumbai,Cash on Delivery,Delivered
+ORD2670,P-008,1,24-12-2024,mumbai,Net Banking,Delivered
+ORD2074,p015,10,25-12-2024,Kolkata,Credit Card,Delivered
+ORD2719,P034,4,12 January 2025,Pune ,Debit Card,Cancelled
+ORD1687,P027,3,19 December 2024,Delhi,DebitCard,Returned
+ORD2079,P030,3,Dec 08 2024,Kolkata,Cash on Delivery,Returned
+ORD2043,P015,5,02/20/2025,Bengaluru,credit card,Delivered
+ORD1939,P036,9,21-Jan-25, Chennai,Credit Card,Cancelled
+ORD2427,P004,7,01/30/2025,AHMEDABAD,Credit Card,Returned
+ORD2820,P002,4,21/01/2025,Kolkata,Net Banking,Delivered
+ORD1993,P002,8,03/01/2025,Pune,cash on delivery,Delivered
+ORD2016,P023,1,01/12/2024,mumbai,Net Banking,Delivered
+ORD2827,P036,9,Dec 01 2024,Hyderabad,UPI,Delivered
+ORD2134,P034,10,Dec 18 2024,HYDERABAD,UPI,Delivered
+ORD2627,P031,9,Feb 09 2025,Hyderabad,CC,Delivered
+ORD2792,P039,2,15/02/2025,Bengaluru,Credit Card,Delivered
+ORD1316,P023,1,26-02-2025,MUMBAI,credit card,Delivered
+ORD2320,P006,0,01-Dec-24,Delhi,Credit Card,Delivered
+ORD1797,P032,2,16 January 2025,Hyderabad,Cash on Delivery,Delivered
+ORD2244,P005,5,02-Jan-25,Mumbai,UPI,Cancelled
+ORD1141,P024,5,30 January 2025,Ahmedabad,Credit Card,Cancelled
+ORD1299,P031,3,Feb 21 2025,Kolkata,DEBIT CARD,Returned
+ORD1583,P035,7,2025-01-20, Hyderabad,Debit Card,Delivered
+ORD2101,p032,8,01/21/2025,Hyderabad,Credit Card,Delivered
+ORD1396,P036 ,8,05-Feb-25,Bengaluru,credit card,Cancelled
+ORD1537,P037,7,20-12-2024,mumbai,Net_Banking,Returned
+ORD1735,P011,10,28-Jan-25,Ahmedabad,UPI,Returned
+ORD1885,P023,1,02 December 2024,Hyderabad,Credit Card,Delivered
+ORD1634,P024,9,28-Feb-25,MUMBAI,Net_Banking,Delivered
+ORD2786,P037,9,01/23/2025,Delhi,Debit Card,Delivered
+ORD1874,P009,1,11-Feb-25,Ahmedabad,UPI,Returned
+ORD2572,p036,4,15-02-2025,BENGALURU,UPI,Delivered
+ORD2384,P023,1,06-Jan-25,Ahmedabad,UPI,Cancelled
+ORD2921,P040,6,02-12-2024,Chennai ,UPI,Delivered
+ORD1515,P023,1,27 January 2025,Pune,Net Banking,Delivered
+ORD2606,P025,3,01/26/2025,Mumbai,cash on delivery,Delivered
+ORD1121,P019,8,16 December 2024,Hyderabad,credit card,Delivered
+ORD2796,p025,6,28-Feb-25,Ahmedabad,UPI,Delivered
+ORD1551,P027,10,13/02/2025,Ahmedabad,UPI,Returned
+ORD1787,P021,10,25/02/2025,chennai,net banking,Delivered
+ORD2746,P039,2,21-Jan-25,Pune,debit card,Delivered
+ORD2932,p035,10,13-02-2025,Mumbai,UPI,Returned
+ORD2549,P036,6,07-01-2025,Delhi,DC,Delivered
+ORD1887,P039,2,04-Jan-25,Chennai,UPI,Cancelled
+ORD1437,P003,4,08 January 2025,Pune,Cash on Delivery,Delivered
+ORD2592,P023,8,06-Dec-24,Chennai,Cash on Delivery,Returned
+ORD1749,P016,10,Jan 15 2025,Chennai,Debit Card,Returned
+ORD2136,P007,1,13-12-2024,Ahmedabad,net banking,Cancelled
+ORD1293,P023,9,Feb 13 2025,Bombay,UPI,Delivered
+ORD2499,p037,10,30-01-2025,Kolkata,U.P.I,Cancelled
+ORD1544, P022,8,Feb 20 2025,kolkata,Cash on Delivery,Cancelled
+ORD1174,P021,9,Jan 22 2025,Delhi,UPI,Delivered
+ORD2924,P021,10,30 December 2024,Hyderabad,Net Banking,Delivered
+ORD1177,P015,4,02/22/2025,Bengaluru,Debit Card,Delivered
+ORD2447,P009,5,2025-02-11,Hyderabad,Cash on Delivery,Returned
+ORD1998,P001 ,10,09-Jan-25,Bengaluru,debit card,Cancelled
+ORD2557,P018,3,16-02-2025,Delhi,Cash on Delivery,Delivered
+ORD1724,P025,3,2025-01-18,Pune,Cash on Delivery,Returned
+ORD2585,P002,6,Jan 22 2025,Kolkata,UPI,Delivered
+ORD2685,P039,6,15/02/2025,Chennai,Cash on Delivery,Delivered
+ORD2563,P004,8,16 February 2025,hyderabad,Net Banking,Delivered
+ORD1393,P025,1,15/01/2025,Delhi,Credit Card,Delivered
+ORD1792,p040,1,02/01/2025,MUMBAI,Debit Card,Delivered
+,P015,,03 February 2025,Bombay,CASH ON DELIVERY,Delivered
+ORD1685,P020,5,15-02-2025,Bengaluru,Cash on Delivery,Delivered
+,P013,7,18/12/2024,delhi,CC,Delivered
+ORD2419,P022,8,10-01-2025,Kolkata,Credit Card,Delivered
+,P019,1,02/13/2025,Pune ,UPI,Delivered
+ORD2069,P015,2,Dec 07 2024,hyderabad,Credit_Card,Returned
+ORD1667,P002,6,2025-01-24,mumbai,Debit Card,Delivered
+ORD1065,P033,3,19 January 2025,Bengaluru,cash on delivery,Returned
+ORD1703,P016,6,18-12-2024,Delhi,Net Banking,Delivered
+ORD2239,P036 ,4,14-12-2024,pune,upi,Delivered
+ORD2227,P015,1,17/12/2024,BENGALURU,UPI,Delivered
+ORD2334,P019,1,10-Dec-24,CHENNAI,Cash on Delivery,Returned
+ORD1658,P034,5,12/16/2024,Chennai,Debit Card,Delivered
+ORD2514,P039,6,20/12/2024,Kolkata,CC,Delivered
+ORD2705,P011,1,26-12-2024,Delhi,net banking,Delivered
+ORD1858,P015,8,2025-02-20,Delhi,Net Banking,Returned
+ORD1975,P021,8,12/21/2024,Kolkata,NET BANKING,Delivered
+ORD1592,p006,5,09-Dec-24,Kolkata,DC,Delivered
+ORD1902,P002,9,12/10/2024,Delhi,Net Banking,Cancelled
+ORD1595,P021,2,01-02-2025,Ahmedabad,Cash on Delivery,Delivered
+ORD2014,P025,4,14/02/2025,Chennai,Debit Card,Delivered
+ORD1654,P037,7,2024-12-30,CHENNAI,upi,Returned
+ORD2546,P013,10,Dec 20 2024,Kolkata,UPI,Cancelled
+ORD2769, P006,6,2024-12-09,kolkata,Net Banking,Delivered
+ORD2909,P015,none,12/16/2024,Hyderabad,upi,Delivered
+ORD1920,P018,6,09 February 2025,ahmedabad,UPI,Cancelled
+ORD2817,P011,6,25/01/2025, Bengaluru,U.P.I,Delivered
+ORD2351,P028,2,22-Jan-25,BENGALURU,credit card,Cancelled
+ORD2071,P010,8,2024-12-04,Hyderabad,Net Banking,Delivered
+ORD1476,P-018,5,Jan 19 2025,CHENNAI,cash on delivery,Cancelled
+ORD2448,P006 ,4,21-02-2025,Mumbai,UPI,Delivered
+ORD2271,P037,0,18-Jan-25,Chennai,NetBanking,Cancelled
+ORD1418,P028,2,14 January 2025,MUMBAI,Debit Card,Cancelled
+ORD2029,P015,4,02/28/2025,Chennai,debit card,Delivered
+ORD1185,P099,7,2025-02-17,Hyderabad,Cash on Delivery,Delivered
+ORD1502,P003,3,12/21/2024,hyderabad,NET BANKING,Cancelled
+ORD1772,P025,10,21-Feb-25,ahmedabad,Credit Card,Returned
+ORD2913,P038,1,2025-03-01,Bengaluru,Credit Card,Delivered
+ORD2650,P017,6,01 December 2024,Ahmedabad,Cash on Delivery,Returned
+ORD1569,P037,1,01/18/2025,pune,upi,Cancelled
+ORD1405,P022,7,Jan 11 2025,Delhi,cash on delivery,Delivered
+ORD2936,P036,9,23-Dec-24,kolkata,upi,Delivered
+ORD2920,p008,7,01/17/2025,mumbai,NetBanking,Delivered
+ORD2272,P036,1,01-Feb-25,Ahmedabad,Debit Card,Delivered
+ORD1865,P015,1,2025-02-27,Bengaluru,Debit Card,Delivered
+ORD1719,P039,10,25-12-2024,Kolkata,UPI,Returned
+ORD1364,P012,7,12/02/2025,Delhi,UPI,Cancelled
+ORD2926,P025,8,07-02-2025,Hyderabad,Credit Card,Delivered
+ORD2947, P027,6,12-02-2025,CHENNAI,UPI,Cancelled
+ORD2807,P033,6,01 January 2025, Ahmedabad,Debit Card,Cancelled
+ORD1615, P023,2,14-Feb-25,Delhi,Cash on Delivery,Returned
+ORD1891,p012,2,02/04/2025,Ahmedabad,CASH ON DELIVERY,Delivered
+ORD1238,P-014,1,17-Jan-25,Kolkata,debit card,Delivered
+ORD1972,P040,7,17-12-2024,Pune ,CC,Returned
+,P017,3,03-12-2024,Pune,Cash on Delivery,Delivered
+ORD1839,P021,3,2024-12-14,mumbai,Debit Card,Delivered
+ORD2655,P001,3,28 December 2024, Mumbai,NET BANKING,Delivered
+ORD2317,p007,6,2024-12-24,Mumbai,Net Banking,Delivered
+ORD1210,p013,2,Jan 02 2025,Delhi,Net Banking,Cancelled
+ORD2683,P016 ,9,02/03/2025,Ahmedabad,UPI,Returned
+ORD1767,P037,10,09/12/2024,Ahmedabad,Cash on Delivery,Returned
+ORD1769,p028,7,31-Dec-24,Delhi,Credit Card,Cancelled
+ORD1780,P036 ,4,07-02-2025,Mumbai,UPI,Returned
+ORD2056,P020,7,01/11/2025,Mumbai,CASH ON DELIVERY,Delivered
+ORD1994,P013,7,Jan 29 2025,Ahmedabad,Debit Card,Returned
+ORD2726,P005 ,1,10-01-2025,Kolkata,Credit Card,Delivered
+ORD1871,P008,2,15 February 2025,Madras,Debit Card,Cancelled
+ORD1881,P008,3,17-Jan-25,Pune,debit card,Delivered
+ORD1093,p027,1,Feb 03 2025,Pune,UPI,Delivered
+ORD2656,P007,10,2025-01-28,pune,Net Banking,Delivered
+ORD1027,P036,8,Jan 30 2025,Hyderabad ,Credit Card,Returned
+ORD1623,P022,1,06-Dec-24,Delhi ,Credit Card,Delivered
+ORD1120,P036,2,01/26/2025,Delhi,Debit Card,Cancelled
+ORD2410,p009,2,Jan 01 2025,Hyderabad,cash on delivery,Delivered
+ORD2416,P-036,3,25-12-2024,Ahmedabad,Cash_on_Delivery,Delivered
+ORD1096,P033,3,Dec 31 2024,Delhi,Credit Card,Delivered
+ORD1226,P008,6,Jan 10 2025,Pune,NET BANKING,Delivered
+ORD2295,P101,6,14-02-2025,kolkata,cash on delivery,Returned
+ORD2310,P025,2,01/12/2024,Ahmedabad,debit card,Returned
+ORD1805,P022,3,17-02-2025,Pune,UPI,Delivered
+,P030,10,26/01/2025,Kolkata,Net Banking,Delivered
+ORD2919,P003,3,02/08/2025,delhi,Debit Card,Delivered
+ORD1033,P012,3,Dec 31 2024,Chennai,Credit Card,Returned
+ORD2518,p027,7,12/23/2024,Hyderabad,Credit Card,Delivered
+,P021,5,22/02/2025,KOLKATA,Credit Card,Delivered
+ORD1272,P006,8,Jan 30 2025,Ahmedabad,CREDIT CARD,Delivered
+ORD1278,P019,10,12/23/2024,Bengaluru,Credit_Card,Delivered
+ORD1759,p005,9,24-02-2025,Mumbai,Cash on Delivery,Returned
+ORD2253,P016,none,Feb 03 2025,Pune ,Cash on Delivery,Returned
+ORD2636,P035,8,Dec 13 2024,mumbai,UPI,Delivered
+ORD2242,P033,7,01/26/2025,Chennai,cash on delivery,Returned
+ORD1287, P021,3,15-01-2025,DELHI,DEBIT CARD,Delivered
+ORD2927,P031,9,Jan 16 2025, Chennai,CreditCard,Delivered
+ORD2700, P006,,Jan 23 2025,AHMEDABAD,Debit Card,Returned
+ORD2422,P003,-2,07-Jan-25,Delhi,Debit Card,Delivered
+,P023,10,Dec 02 2024,Ahmedabad,Debit Card,Returned
+ORD2840,P026,9,23/02/2025,Kolkata,Cash on Delivery,Delivered
+ORD2539,P034,8,03-Jan-25,Kolkata,Cash on Delivery,Delivered
+ORD2624,P005,8,24-01-2025,Mumbai,Cash on Delivery,Delivered
+ORD1409,P017 ,,12/25/2024,kolkata,Debit Card,Returned
+ORD2663,P022,7,01/09/2025,Ahmedabad,Net Banking,Delivered
+ORD1818,P015,1,09-02-2025,Hyderabad ,UPI,Delivered
+ORD1487,P018,6,27-Feb-25,hyderabad,Debit Card,Delivered
+ORD2255,P031,3,Feb 15 2025,Kolkata,net banking,Returned
+ORD2179,p014,9,25-12-2024,hyderabad,Cash on Delivery,Delivered
+ORD1132,P019 ,6,03 February 2025,Mumbai ,U.P.I,Delivered
+ORD2095,P030,4,Jan 09 2025,Mumbai,CashonDelivery,Returned
+ORD2184,P027,1,24/01/2025,Kolkata,upi,Delivered
+ORD1283,P028,5,02/10/2025,Kolkata ,Credit Card,Delivered
+ORD2559,P039,5,2025-02-09,Mumbai,UPI,Returned
+ORD2718,P013,3,01/03/2025,Bengaluru,net banking,Returned
+ORD2251,P040,2,13-02-2025,Ahmedabad,Credit Card,Returned
+ORD1212,p032,5,06-12-2024,Kolkata,UPI,Returned
+N/A,P036,3,Dec 25 2024,MUMBAI,CASH ON DELIVERY,Delivered
+ORD2574,P013,5,Jan 21 2025,bengaluru,Cash on Delivery,Returned
+ORD2240,p036,7,16 January 2025,Chennai,Cash on Delivery,Delivered
+ORD1369,p036,8,Feb 07 2025,Delhi,CREDIT CARD,Delivered
+ORD1330,p035,9,05-02-2025,Pune,Cash on Delivery,Delivered
+ORD1116,P022,1,24-Jan-25,Bengaluru,cash on delivery,Delivered
+ORD2957,p011,-2,02-02-2025,Ahmedabad,DEBIT CARD,Delivered
+ORD1439,P007,8,Jan 02 2025,Pune,net banking,Returned
+ORD2076,P036,10,2025-01-12,Pune,Net_Banking,Delivered
+ORD1904, P099,7,21-Jan-25,Chennai ,UPI,Cancelled
+ORD2781,P015,9999,28/01/2025,Chennai,Credit Card,Delivered
+ORD2478,P035,6,2025-02-08,Kolkata,Cash on Delivery,Delivered
+ORD1016,p009,5,2024-12-25,ahmedabad,Credit Card,Delivered
+ORD1412,P002,2,Jan 31 2025,Pune,UPI,Delivered
+ORD1031,P011,7,2024-12-17,Hyderabad ,CASH ON DELIVERY,Cancelled
+ORD2505, P020,1,01/10/2025,chennai,cash on delivery,Delivered
+ORD1378,P036,1,Dec 05 2024,Delhi,Cash on Delivery,Delivered
+ORD2048,P023,8,27-12-2024,pune,Credit Card,Returned
+ORD1317,P002,5,Jan 19 2025,kolkata,Net Banking,Cancelled
+ORD2104,p023,7,05/12/2024,Pune,Credit Card,Delivered
+ORD2327,P014,4,26/01/2025,Ahmedabad,Debit Card,Delivered
+ORD1954,P037 ,9,09-Feb-25,Kolkata,COD,Returned
+ORD2607,P007,2,13/02/2025,Bengaluru,NetBanking,Returned
+ORD1507,P001,7,18-12-2024,Pune,Cash on Delivery,Cancelled
+ORD2501,P036,7,Feb 28 2025,chennai,Net Banking,Returned
+ORD2133,P019,2,16/02/2025,delhi,Credit Card,Delivered
+ORD1709, P036,7,Dec 24 2024,Mumbai,UPI,Returned
+ORD1606,p012,,19 February 2025,Kolkata,Credit Card,Delivered
+,P009,2,07 February 2025, Mumbai,Net Banking,Returned
+ORD1404,P033,6,14 February 2025,Kolkata,cash on delivery,Delivered
+ORD1122,p015,2,31/01/2025,Kolkata,Cash on Delivery,Returned
+ORD2860,P036,10,2025-02-22,Kolkata,CreditCard,Delivered
+ORD2488,P034,5,Jan 04 2025,Delhi,NetBanking,Delivered
+ORD2197,P008,6,27-02-2025,Hyderabad,Debit Card,Delivered
+ORD2955,P007,9,14/02/2025,Delhi ,Debit_Card,Delivered
+ORD2337,P021,2,29/01/2025,Ahmedabad,Credit Card,Cancelled
+ORD2643,P020,9,Dec 03 2024,Hyderabad,Net Banking,Returned
+ORD1588,P008,2,Feb 14 2025,Ahmedabad,cash on delivery,Delivered
+ORD1674, P016,none,01/03/2025, Chennai,Debit Card,Returned
+ORD2348,P-024,-2,01/26/2025,Kolkata,CASH ON DELIVERY,Returned
+ORD1360,P003,10,Feb 21 2025,Chennai,UPI,Cancelled
+ORD1788,P032,5,05-Jan-25,Delhi,Credit Card,Cancelled
+ORD2818,P036,1,11 February 2025,Hyderabad,Debit Card,Delivered
+ORD2331,p008,1,20/02/2025,Kolkata,net banking,Delivered
+ORD1013,P016,2,02/05/2025,ahmedabad,upi,Delivered
+ORD2982,P019,7,24 January 2025,CHENNAI,Cash on Delivery,Delivered
+ORD2141,P023,none,2025-01-28,Pune,UPI,Cancelled
+ORD1849,P023,4,14/02/2025,Kolkata,Cash on Delivery,Delivered
+ORD1192,P003,10,16-Dec-24,HYDERABAD,CREDIT CARD,Returned
+ORD1570,P035,4,Jan 21 2025,Delhi,Net Banking,Cancelled
+ORD2467,P024,9,23-02-2025,Delhi,Credit Card,Delivered
+ORD1383,P100,,Dec 16 2024,BENGALURU,Credit Card,Delivered
+ORD1074,P019,8,2025-01-04,bengaluru,Debit Card,Returned
+ORD2991,P009,7,20/12/2024,Kolkata,upi,Cancelled
+ORD1684,P006 ,5,2024-12-15,Hyderabad,UPI,Returned
+ORD1079,P036,4,02/21/2025,Pune,upi,Delivered
+,P030,2,31 January 2025,Kolkata,Cash on Delivery,Returned
+ORD2198,P018,10,03/01/2025,Kolkata ,Net Banking,Delivered
+ORD1955,P037,6,01/31/2025,DELHI,NetBanking,Delivered
+ORD2050, P039,7,2025-02-19,ahmedabad,net banking,Delivered
+ORD2144,P028,7,2025-01-22,Chennai ,Credit Card,Delivered
+ORD2749,P036,7,01/01/2025,Bengaluru,Debit Card,Delivered
+ORD1450,P013,6,01/04/2025,Kolkata,Debit Card,Delivered
+,P011,9,19-Dec-24,hyderabad,credit card,Delivered
+ORD1603,P003,9,24 February 2025,Bangalore,Credit Card,Delivered
+ORD2303,P005,8,04-01-2025,Bengaluru,CC,Delivered
+ORD1453,P008,6,05 February 2025,pune,Cash on Delivery,Delivered
+ORD1254, P020,3,30-01-2025,Pune,Net Banking,Delivered
+ORD1194,P029 ,3,22-Jan-25,Mumbai,Debit Card,Returned
+ORD1494,P031,2,08-Dec-24,Delhi,debit card,Cancelled
+ORD1791,P023,none,12/07/2024,HYDERABAD,UPI,Cancelled
+ORD2845,P002,10,Feb 08 2025,bengaluru,Net Banking,Cancelled
+,P019,10,06 January 2025,Kolkata,UPI,Delivered
+ORD2992,P012,2,Dec 27 2024,Kolkata,Debit Card,Cancelled
+ORD1245,P010,8,Feb 01 2025,DELHI,Credit Card,Delivered
+ORD2725,P002 ,4,Feb 21 2025,Kolkata,credit card,Delivered
+ORD2424,P037,6,02-Feb-25,Ahmedabad,NetBanking,Delivered
+ORD2006,P021,7,17-Jan-25,Bengaluru,Debit Card,Returned
+ORD2949,P030,10,05-Dec-24,Chennai,Cash on Delivery,Delivered
+ORD1220,P008,N/A,2024-12-26,KOLKATA,Debit Card,Cancelled
+ORD2472,P029,10,Dec 16 2024,Delhi ,Net Banking,Delivered
+ORD2178,P025,4,Dec 11 2024,Bengaluru,UPI,Delivered
+ORD2302,P005,2,07 January 2025,Kolkata,Net Banking,Delivered
+ORD2903,P030,8,21 January 2025,Mumbai,Cash_on_Delivery,Delivered
+ORD1718,P036,6,05 December 2024,Mumbai,UPI,Delivered
+ORD2461, P017,2,2025-02-04,Mumbai,UPI,Delivered
+ORD2122,P099,9,31/12/2024,Pune,Cash on Delivery,Delivered
+ORD2278,P003,5,15 December 2024,Bengaluru,UPI,Delivered
+ORD1424,P012,7,2024-12-21,Delhi,Debit Card,Cancelled
+ORD2695,P008,9,02-01-2025,mumbai,Debit Card,Delivered
+ORD2555,P027,2,14-Jan-25,CHENNAI,CREDIT CARD,Delivered
+ORD1536,P025,9,2024-12-04,Ahmedabad,credit card,Cancelled
+ORD2395,P013,8,18-12-2024,Delhi,Credit Card,Cancelled
+ORD1258,P030,2,2025-02-12,bengaluru,CASH ON DELIVERY,Cancelled
+ORD1539,P-011,3,05-12-2024,Pune,CASH ON DELIVERY,Cancelled
+ORD1691,P006,2,04-12-2024,kolkata,DEBIT CARD,Delivered
+ORD2044,P023,6,17 January 2025,Chennai,Cash on Delivery,Delivered
+ORD2457,P013,5,19-Dec-24,Chennai,Cash on Delivery,Returned
+ORD2668,P025,3,27-Dec-24,Kolkata,Debit Card,Delivered
+ORD1666,P015,10,05/01/2025,HYDERABAD,Credit Card,Delivered
+,P-008,7,14-12-2024,Pune,DC,Delivered
+ORD1527,p101,9,Feb 17 2025,ahmedabad,Credit Card,Cancelled
+ORD1462,P040,5,09/12/2024,Kolkata,UPI,Delivered
+ORD2510,p009,2,12/16/2024,Delhi,Credit_Card,Returned
+ORD1521,P024,7,23 December 2024,Bengaluru,CashonDelivery,Delivered
+ORD2438,P006,4,15/01/2025,Delhi,Credit Card,Delivered
+ORD2383,P023,3,Dec 24 2024, Hyderabad,UPI,Delivered
+ORD2130, P040,10,27-01-2025, Bengaluru,NET BANKING,Delivered
+ORD2212,P021,8,14-01-2025,Mumbai,NetBanking,Delivered
+ORD2813,P023,5,2024-12-20,Bombay,Net Banking,Cancelled
+ORD2905,P021,8,07-Feb-25,DELHI,UPI,Delivered
+ORD2420,P002,10,2025-01-18,DELHI,Debit Card,Cancelled
+ORD2192,P005,,02/05/2025,HYDERABAD,Cash on Delivery,Returned
+ORD1036,P015,8,Feb 09 2025,Ahmedabad,Credit_Card,Cancelled
+ORD2835,P016,10,26-12-2024,Bengaluru,Credit Card,Returned
+ORD1679, P038,3,Dec 24 2024,Chennai,UPI,Delivered
+ORD2537,P036,0,12/24/2024, Chennai,Net Banking,Delivered
+ORD1415,P022 ,10,12-02-2025,mumbai,Debit_Card,Returned
+ORD2744,P006,3,Feb 13 2025,Kolkata,Cash on Delivery,Delivered
+ORD2724,p022,4,12/17/2024,Kolkata ,Debit Card,Cancelled
+ORD1449,P021,2,27-Dec-24,Bengaluru,DEBIT CARD,Delivered
+ORD1761,P-036,1,2025-02-20,Bengaluru,DEBIT CARD,Cancelled
+ORD1757,P031,6,Jan 25 2025,Delhi,Credit Card,Delivered
+ORD1289,P023 ,6,2025-02-18,Hyderabad,UPI,Cancelled
+ORD2353,P003,5,16-01-2025,Ahmedabad,Cash on Delivery,Delivered
+ORD1247,P034,6,2024-12-08,Hyderabad,UPI,Delivered
+ORD1199,p027,10,01-Dec-24,Hyderabad,cash on delivery,Delivered
+ORD2664,P022,2,01/10/2025,Ahmedabad,UPI,Delivered
+ORD2329,P001 ,3,2025-02-02,Hyderabad,Cash on Delivery,Delivered
+ORD1906,P003,3,10/01/2025,Hyderabad,Credit Card,Delivered
+ORD2576,P002,4,22/12/2024,delhi,UPI,Delivered
+ORD2429,P101,2,13/01/2025,Hyderabad,net banking,Delivered
+ORD1281,p021,7,13/02/2025, Kolkata,Net Banking,Delivered
+ORD1876,P008,10,2024-12-23,ahmedabad,net banking,Cancelled
+ORD1146,P013,3,2024-12-31,Mumbai,UPI,Delivered
+ORD2831,P036,5,2024-12-19,Delhi ,UPI,Returned
+ORD1819,P030,7,2025-01-01,Mumbai,Debit Card,Cancelled
+ORD2020,P039,5,2025-01-05,Chennai,cash on delivery,Delivered
+,P039,10,01/25/2025,ahmedabad,Net Banking,Delivered
+ORD2131,P028,9,2024-12-03,HYDERABAD,Cash on Delivery,Delivered
+ORD2870,P005,8,2025-01-29,chennai,CREDIT CARD,Returned
+ORD2782,p037,10,02/21/2025,Mumbai,Credit Card,Delivered
+ORD1300,P022,2,05 January 2025,Bengaluru,Net Banking,Delivered
+ORD2984,P022,8,21 December 2024,Ahmedabad,Debit Card,Delivered
+ORD1390,P012,5,2025-02-10,Hyderabad,UPI,Cancelled
+ORD2173,p002,10,02/21/2025,Chennai,UPI,Delivered
+ORD1660,P101,8,11/12/2024,Bengaluru,Cash_on_Delivery,Delivered
+ORD1928,p016,6,12/16/2024,Ahmedabad,Credit Card,Delivered
+ORD1940,P003,3,29/12/2024,Ahmedabad,UPI,Delivered
+ORD2594,P015,10,12-Jan-25,Hyderabad,Net Banking,Returned
+ORD2030,P012,7,12/04/2024,Chennai,cash on delivery,Returned
+ORD2918,P024,4,Jan 04 2025,Delhi ,Net Banking,Delivered
+ORD1601,P008,9,2024-12-05,Hyderabad,cash on delivery,Cancelled
+ORD2833,p013,7,17 February 2025,Kolkata,DEBIT CARD,Cancelled
+ORD1400,P006,6,15-Feb-25,Ahmedabad,Net Banking,Delivered
+ORD2897,P024,-2,01/06/2025,kolkata,UPI,Delivered
+ORD1436,P011,5,27/02/2025,Ahmedabad,Credit Card,Delivered
+ORD1682,P006 ,9,12-01-2025,ahmedabad,Credit Card,Delivered
+ORD1115, P037,2,05-02-2025,Chennai,UPI,Cancelled
+ORD1775,P021,1,15 December 2024,Ahmedabad,DebitCard,Cancelled
+ORD1631,P035,2,30 December 2024,Hyderabad,Debit Card,Delivered
+ORD1758,P002,5,23-01-2025,delhi,Credit Card,Cancelled
+ORD1145,P100,4,12/13/2024,Bengaluru,Credit_Card,Delivered
+ORD1741,P007,10,Jan 05 2025,KOLKATA,credit card,Cancelled
+ORD1466, P013,9,20 February 2025,Pune,UPI,Delivered
+ORD1108,P037,5,22 February 2025,pune,credit card,Delivered
+ORD2528,P022 ,none,2025-01-23,MUMBAI,Cash on Delivery,Delivered
+ORD2532,P033,2,22-02-2025,Kolkata,UPI,Cancelled
+ORD2292,P036,9,02/04/2025,AHMEDABAD,Cash on Delivery,Delivered
+ORD1731,P017 ,5,11-Jan-25,Hyderabad,net banking,Delivered
+ORD1230,P033,1,2025-01-18,CHENNAI,DebitCard,Delivered
+ORD1149,P035,8,Jan 26 2025,Delhi,Credit Card,Cancelled
+ORD1659,P038 ,10,Feb 18 2025,Ahmedabad,upi,Delivered
+ORD1345,P012,5,2025-02-19,MUMBAI,Net Banking,Delivered
+ORD2647,P019,1,02/16/2025,Ahmedabad,UPI,Delivered
+ORD1648, P009,5,24-Jan-25,Bengaluru,NET BANKING,Delivered
+ORD2082,p039,3,16 January 2025,pune,Net Banking,Delivered
+ORD2001,P033,2,02/01/2025, Ahmedabad,UPI,Delivered
+ORD1540,P002 ,5,02/08/2025,Chennai,credit card,Returned
+ORD1914,P008,8,01/23/2025,delhi,UPI,Returned
+ORD2280,P013,7,04-Jan-25,MUMBAI,UPI,Cancelled
+ORD1250,P022,5,Dec 02 2024, Hyderabad,Debit Card,Cancelled
+ORD2290,P006,3,2024-12-15,Ahmedabad,UPI,Delivered
+ORD2944,P030 ,5,01/17/2025,Chennai,Debit_Card,Cancelled
+ORD2267,P022,7,28-02-2025,Ahmedabad,debit card,Returned
+ORD1007,P023,9,19/12/2024,Chennai,credit card,Delivered
+ORD1630,P032,10,01/12/2025,Hyderabad,Net Banking,Cancelled
+ORD2186,P031,7,08 February 2025,ahmedabad,UPI,Cancelled
+ORD1144, P016,5,02-Jan-25,Bengaluru,UPI,Cancelled
+ORD1246,P028,3,05 February 2025,pune,UPI,Delivered
+ORD2965,P030,7,10 January 2025,Ahmedabad,CASH ON DELIVERY,Cancelled
+ORD1083,P023,7,04 December 2024,mumbai,cash on delivery,Returned
+ORD2152,P033,,12/04/2024,Delhi,Debit Card,Cancelled
+ORD1888,p020,2,07-12-2024,Pune,UPI,Delivered
+ORD2491,P004,0,18 February 2025,Bombay,UPI,Delivered
+ORD2830,P037,6,15-Dec-24,Delhi,net banking,Delivered
+ORD2418,p005,3,22-Feb-25,Pune,net banking,Cancelled
+ORD2201,P017,8,02/06/2025,Delhi,Credit Card,Cancelled
+ORD1628,P011,2,02/25/2025,ahmedabad,Credit Card,Returned
+ORD1303,P021,8,19-Dec-24,Ahmedabad,Debit Card,Delivered
+ORD1339,P001,1,01/25/2025,Chennai,Net Banking,Delivered
+ORD1019,P020 ,2,08 December 2024,delhi,credit card,Delivered
+ORD1859,P020,10,Jan 19 2025, Delhi,credit card,Delivered
+ORD1180,P022,6,07/02/2025,Kolkata,Net Banking,Delivered
+ORD2275,P017 ,6,2025-02-23,ahmedabad,Debit Card,Delivered
+ORD1306,P016,4,Dec 30 2024,Delhi,Net Banking,Cancelled
+ORD2314,P033,7,13 January 2025,Bengaluru,Cash on Delivery,Delivered
+ORD2379,P-001,2,18 February 2025,Ahmedabad,UPI,Delivered
+ORD1877,P025,7,05 February 2025,Ahmedabad,Cash on Delivery,Delivered
+ORD1419,P014,1,2025-01-03,bengaluru,Net Banking,Returned
+ORD2154,P-011,10,10-Dec-24,delhi,net banking,Cancelled
+ORD1514,P013,8,2024-12-14,Pune ,credit card,Delivered
+ORD2087,P025,none,14-Feb-25,Chennai,Credit_Card,Returned
+ORD2556,P015,3,Dec 17 2024,Ahmedabad,Credit Card,Delivered
+ORD2502,P040,1,02 December 2024,chennai,debit card,Delivered
+ORD1824,P020,-,02/11/2025,Hyderabad,UPI,Cancelled
+ORD1243,P039,5,13 December 2024,Delhi,net banking,Cancelled
+ORD1571,P012,10,25/02/2025,Mumbai,cash on delivery,Delivered
+ORD2974,P027,5,03-Feb-25,pune,Cash on Delivery,Delivered
+ORD1484,P022,1,18-Jan-25,Pune,DebitCard,Delivered
+ORD2716,P013,8,Feb 04 2025,Chennai,Debit Card,Delivered
+ORD1555,p036,3,04/01/2025,Delhi,Credit Card,Cancelled
+ORD1562,P023,1,29-Dec-24,Hyderabad,cash on delivery,Returned
+ORD1155,P035,4,08-12-2024,BENGALURU,Net Banking,Returned
+ORD1198,p011,6,05-Jan-25,DELHI,Debit Card,Delivered
+ORD1059,P011,5,01/21/2025,Mumbai,Cash on Delivery,Delivered
+ORD2097,P006,5,24-Jan-25,hyderabad,Credit Card,Delivered
+ORD2060,P027,1,Dec 21 2024, Delhi,Net Banking,Cancelled
+ORD1459,P020,8,05 January 2025,Hyderabad,UPI,Delivered
+ORD1481,P003,8,05-Feb-25,ahmedabad,Cash on Delivery,Delivered
+ORD1144, P016,5,02-Jan-25,Bengaluru,UPI,Cancelled
+ORD1671,P005,6,23 January 2025,Chennai,NET BANKING,Returned
+ORD2217,P007,8,Feb 10 2025, Chennai,Debit Card,Delivered
+ORD1883,P023,9,22 December 2024,Pune,Credit Card,Delivered
+ORD1970,P023,4,06/01/2025,Kolkata,Cash on Delivery,Returned
+ORD2286,P009,9,24-Jan-25,Mumbai,net banking,Delivered
+ORD1286,P034,3,01-Dec-24,Pune,Cash on Delivery,Cancelled
+ORD1257,P015,3,2025-02-11,Ahmedabad,CREDIT CARD,Delivered
+ORD1269,P004,3,02/14/2025,Ahmedabad,net banking,Cancelled
+ORD2850,P017,N/A,12/17/2024,Hyderabad,Cash on Delivery,Returned
+ORD2150,P-039,3,12/31/2024,delhi,credit card,Delivered
+ORD2153,P026,7,03-01-2025,chennai,net banking,Delivered
+ORD1846,P006,5,2025-02-11,Hyderabad,CASH ON DELIVERY,Delivered
+ORD2513, P005,9,Feb 21 2025,Mumbai,Credit Card,Cancelled
+ORD1111,P019,,03-Feb-25,mumbai,CASH ON DELIVERY,Returned
+ORD2124,P036,2,2024-12-12,Pune,Credit_Card,Cancelled
+ORD1026,P008,6,21/12/2024,Bengaluru,cash on delivery,Delivered
+ORD1435,P037,-2,2024-12-06,Bengaluru,UPI,Cancelled
+ORD2747,P037,6,Jan 23 2025,Chennai,UPI,Delivered
+ORD1376,P-007,7,Dec 05 2024,Kolkata,UPI,Returned
+ORD1644,P-022,6,24-Dec-24,Mumbai,net banking,Delivered
+ORD2481,P025,4,2025-01-28,Delhi,Net Banking,Cancelled
+ORD2737,P030,1,12/07/2024,kolkata,Net Banking,Cancelled
+ORD2986,P030,-2,21-Feb-25,kolkata,Debit Card,Returned
+ORD1591, P020,8,25-Dec-24,Ahmedabad,UPI,Delivered
+ORD1621,P021,3,28 December 2024,bengaluru,Credit Card,Delivered
+ORD2910,P017,6,12/21/2024,Pune,Debit Card,Delivered
+ORD2935,P036,7,2025-01-05,pune,UPI,Cancelled
+ORD2869,P013,1,15/01/2025,Mumbai ,Credit Card,Cancelled
+ORD1961,P023,5,Jan 03 2025,Kolkata,Net Banking,Cancelled
+ORD2802,P003,9,18 December 2024,Kolkata ,net banking,Cancelled
+ORD1433,P033,4,Dec 15 2024,Ahmedabad ,Net Banking,Cancelled
+ORD2313,P030,2,Feb 23 2025, Kolkata,Credit Card,Cancelled
+ORD1195,P022,2,Jan 04 2025,Kolkata ,cash on delivery,Delivered
+ORD2465,P019,10,05-Feb-25,Chennai,Net Banking,Cancelled
+ORD2506,P101,1,Dec 01 2024,HYDERABAD,credit card,Delivered
+ORD1781,P-040,2,17-Dec-24,KOLKATA,Cash on Delivery,Cancelled
+ORD2246,P033 ,4,01/20/2025, Ahmedabad,Credit Card,Cancelled
+ORD2291,p007,1,Dec 19 2024,Delhi,upi,Returned
+ORD1368,P002,1,02/23/2025,chennai,DebitCard,Returned
+N/A,P023 ,1,24-Jan-25,Pune,upi,Delivered
+ORD2873,P032,2,19-Feb-25,Delhi,Net Banking,Delivered
+ORD2788,P036 ,1,23/12/2024,Hyderabad,DC,Delivered
+ORD1625,P034,9,12/18/2024,Mumbai,Net Banking,Delivered
+ORD1806,p037,9,24 February 2025,Chennai,CREDIT CARD,Delivered
+ORD1297,P021,5,02/21/2025,DELHI,Debit_Card,Cancelled
+ORD1043,P039,1,15/12/2024,bengaluru,Debit Card,Delivered
+ORD1321,P004,10,04-02-2025,Chennai,Net Banking,Returned
+ORD1870, P035,2,Dec 13 2024,Kolkata,CC,Delivered
+ORD1447,P023,6,01 March 2025,Mumbai,UPI,Delivered
+ORD2717,P011,3,2024-12-03,Delhi,Cash on Delivery,Delivered
+ORD2366,P030,10,23 December 2024,Bombay,Net Banking,Cancelled
+ORD1829,P100,-2,12/18/2024,BENGALURU,Net Banking,Cancelled
+ORD1556,P031,1,2025-02-07,Kolkata,Net Banking,Delivered
+ORD1324,P-037,4,25/12/2024,Ahmedabad,credit card,Delivered
+ORD2806,P015,4,07-01-2025,Bengaluru,CASH ON DELIVERY,Delivered
+ORD1560,P015,2,28-Feb-25,Ahmedabad,Cash on Delivery,Delivered
+ORD2823,P013,2,01/19/2025,Kolkata,NET BANKING,Returned
+ORD1077,P005,4,05 December 2024,Chennai,Cash on Delivery,Delivered
+ORD2617,P020,0,2025-01-24,Delhi,Net Banking,Returned
+ORD2252,P033,3,12/10/2024,Kolkata,Debit Card,Delivered
+ORD1124,P036,9,11 December 2024,Chennai,CREDIT CARD,Cancelled
+ORD1441,P017 ,10,01-02-2025,MUMBAI,cash on delivery,Delivered
+ORD2847,P016,6,28-02-2025,Chennai,Cash on Delivery,Returned
+ORD2933,p038,6,27 January 2025,Delhi,debit card,Delivered
+ORD1420,P013,2,01/25/2025,Chennai,DEBIT CARD,Delivered
+ORD1285,P027,2,25 December 2024, Chennai,CASH ON DELIVERY,Delivered
+ORD2147,P019,9,03/12/2024,Hyderabad,UPI,Delivered
+ORD1528,P024,4,27 January 2025,Kolkata,UPI,Delivered
+ORD2433, P015,4,09/01/2025,delhi,UPI,Returned
+ORD2578,P005 ,6,2024-12-12,Hyderabad ,Debit Card,Cancelled
+,P028 ,5,02/25/2025,Bengaluru,CREDIT CARD,Delivered
+ORD2816,P001,8,02/04/2025,Bengaluru,Net Banking,Cancelled
+ORD2373,P006,none,Jan 15 2025,KOLKATA,UPI,Delivered
+ORD2003,p012,10,10 January 2025, Hyderabad,Credit Card,Returned
+ORD2775,P001,2,22/01/2025,BENGALURU,Credit Card,Delivered
+ORD1322,P-016,2,Feb 14 2025,Mumbai,Cash on Delivery,Delivered
+ORD2498,p001,8,01/04/2025,Madras,cash on delivery,Cancelled
+ORD2541,P039,4,22-02-2025,Chennai,Credit_Card,Delivered
+ORD1866,P010,1,Jan 29 2025,Pune,UPI,Delivered
+ORD2321,P037,3,Dec 11 2024,Pune,UPI,Delivered
+ORD2521,P008,7,10-Feb-25,Kolkata,UPI,Delivered
+,P039,3,21-Jan-25,mumbai,Credit Card,Delivered
+ORD1639,P015,8,22/12/2024,Mumbai,UPI,Delivered
+ORD1762, P004,2,04-12-2024,Ahmedabad,Cash on Delivery,Delivered
+ORD1358,p030,10,27-02-2025,Chennai,NET BANKING,Delivered
+ORD2035,P024,4,12/23/2024,Kolkata,upi,Delivered
+ORD2229,P006,1,2025-01-06,Bengaluru,UPI,Delivered
+ORD1743,P002,7,2025-01-18,Kolkata,Credit Card,Delivered
+ORD2854,P007,1,2025-02-10,Pune,Net Banking,Delivered
+ORD2941,P023,7,03/01/2025,KOLKATA,Net Banking,Cancelled
+ORD2561,P015,7,28-Jan-25,Bengaluru,Debit Card,Returned
+ORD2640,P026,-,23-Feb-25,bengaluru,Net Banking,Delivered
+ORD2061,P008,2,01/09/2025,BENGALURU,Net Banking,Delivered
+ORD1523,P017,5,Feb 27 2025,Kolkata,net banking,Cancelled
+ORD1649,P033,10,10-01-2025,Kolkata,COD,Delivered
+ORD1329,P025,-2,Dec 13 2024,Chennai,Credit Card,Delivered
+ORD2623,P010,10,Feb 04 2025,BENGALURU,UPI,Delivered
+ORD1090, P016,10,2024-12-21, Pune,Debit Card,Cancelled
+ORD1382,P014,3,12/22/2024,Pune,Net Banking,Returned
+ORD2376,p024,6,30-Dec-24,AHMEDABAD,Debit Card,Delivered
+ORD2276,P100,9,02 January 2025,kolkata,UPI,Delivered
+ORD2916,P023,4,2024-12-23,Delhi,CASH ON DELIVERY,Delivered
+ORD2911,P029,4,2024-12-16,Bengaluru,Cash_on_Delivery,Returned
+ORD1313,P101,9,Dec 01 2024,Mumbai,Net_Banking,Delivered
+ORD1403,P033,5,Dec 14 2024,Pune,NetBanking,Cancelled
+ORD2053,P032,3,2025-01-19,HYDERABAD,Net Banking,Cancelled
+ORD2497,P005,1,01/16/2025,Bengaluru,UPI,Cancelled
+ORD1598,P012,1,01/27/2025,Bangalore,DEBIT CARD,Delivered
+ORD1156,P040,1,05 February 2025,Hyderabad,Cash on Delivery,Delivered
+ORD1756, P006,4,01/25/2025,Pune,NET BANKING,Delivered
+ORD1790,P022,2,11/12/2024,Chennai,net banking,Delivered
+ORD1274,p001,8,12 December 2024,Chennai,Net Banking,Delivered
+ORD1672,P010,1,17-Dec-24,Chennai,upi,Returned
+ORD1056,P006,5,2025-01-09,Chennai,Cash on Delivery,Delivered
+,P021,3,2025-02-08,pune,Cash on Delivery,Delivered
+ORD1548,P034,8,17 December 2024,Bengaluru,NET BANKING,Cancelled
+ORD2679,P018,5,12-02-2025,Chennai,net banking,Cancelled
+ORD1366,P006,2,06 January 2025,Mumbai,Debit_Card,Cancelled
+ORD2274, P022,7,14-Jan-25,Hyderabad,UPI,Delivered
+ORD2357,P037 ,6,02-Dec-24, Ahmedabad,Debit Card,Delivered
+,P004,0,20-01-2025,Mumbai ,CashonDelivery,Returned
+ORD1030,P028 ,6,02/24/2025,Hyderabad,Debit Card,Delivered
+ORD1099,P022,-,02/03/2025,Bengaluru,UPI,Delivered
+ORD1335,P002,9,Jan 30 2025,Mumbai ,UPI,Cancelled
+ORD2912,P034,2,28-Feb-25,Bengaluru,DEBIT CARD,Delivered
+ORD1646,p026,-,05/02/2025, Pune,Net Banking,Delivered
+ORD2938,P024,1,2025-02-12,hyderabad,cash on delivery,Returned
+ORD1050,p017,5,2025-02-14,Chennai,UPI,Returned
+ORD2754,P007,4,17-12-2024,Delhi,Debit Card,Delivered
+ORD1075,P101,7,Feb 25 2025,Kolkata,Net Banking,Delivered
+ORD2568,P007,4,27-12-2024,Bengaluru,upi,Returned
+ORD2008,P039,2,13/01/2025,Delhi,cash on delivery,Delivered
+ORD2569,P023,1,12/29/2024,Pune,Debit Card,Delivered
+ORD2895,P028 ,4,15-Dec-24,Kolkata,CREDIT CARD,Returned
+ORD1786,P022,1,01/13/2025,Chennai,Net Banking,Delivered
+ORD1714,P034,8,24-Jan-25,Pune,UPI,Returned
+ORD2479,P003,4,2024-12-14,Ahmedabad,Debit Card,Cancelled
+ORD2805,P015,9,Feb 11 2025,Delhi,DEBIT CARD,Returned
+ORD1882,p011,4,19-Jan-25,Chennai,Credit Card,Delivered
+ORD2228,P028,7,05-Dec-24,Chennai ,Net Banking,Delivered
+ORD1750, P006,7,02-02-2025,Mumbai,Credit Card,Delivered
+ORD1584,P008,7,2024-12-06,AHMEDABAD,NET BANKING,Cancelled
+,P001,7,05-Feb-25,Delhi,UPI,Delivered
+ORD1260,P002,9,Dec 06 2024,Madras,DEBIT CARD,Delivered
+ORD1867, P012,6,19 January 2025,Ahmedabad,Net Banking,Delivered
+ORD2264,P012,10,12/05/2024,hyderabad,Debit Card,Delivered
+ORD2470,P022,10,03/12/2024,BENGALURU,UPI,Delivered
+ORD1184,P024,9,25/02/2025,BENGALURU,Credit Card,Delivered
+ORD1104,P006,6,Feb 27 2025,BENGALURU,CASH ON DELIVERY,Delivered
+ORD2525,P028,6,18-01-2025, Bengaluru,UPI,Delivered
+ORD1434,P022,10,18-12-2024,Pune,Credit Card,Cancelled
+ORD2105,P040,9,05-01-2025,Pune ,Cash on Delivery,Returned
+ORD2190, P006,4,Feb 08 2025,Kolkata,Cash on Delivery,Delivered
+ORD2169,P022,2,15-Jan-25,BENGALURU,Cash on Delivery,Cancelled
+ORD1214,P034 ,7,Dec 02 2024,Pune,UPI,Cancelled
+ORD2330,p021,-,Dec 20 2024,Hyderabad,credit card,Delivered
+ORD1656,P015,9,17 February 2025,Hyderabad,upi,Cancelled
+ORD1962,P034 ,7,2024-12-25,ahmedabad,Debit Card,Cancelled
+ORD1670,P005,2,14/02/2025,Hyderabad,CREDIT CARD,Cancelled
+ORD2170,P033,6,13-12-2024,Bangalore,credit card,Returned
+ORD2007,P012 ,3,02/11/2025,MUMBAI,Net Banking,Delivered
+ORD1734,P023,7,09-12-2024,Ahmedabad,upi,Returned
+ORD2234,P035 ,5,03/12/2024,Kolkata,Credit Card,Delivered
+ORD2394,P001,5,2025-01-08,chennai,Net Banking,Delivered
+ORD2033,P003,7,24 December 2024,Ahmedabad,Debit Card,Cancelled
+ORD1524,P005,4,12/25/2024,Delhi,UPI,Cancelled
+ORD2783,P036,9,01/21/2025,Mumbai,Debit Card,Returned
+ORD2662,P023,6,12-12-2024,Kolkata ,CASH ON DELIVERY,Returned
+ORD2787,P023,8,01/20/2025,CHENNAI,Debit Card,Delivered
+ORD2605,P034,2,24-Feb-25,chennai,Net Banking,Delivered
+ORD2885,p016,10,01-12-2024,Ahmedabad ,debit card,Delivered
+ORD1572,p019,8,15 January 2025,Kolkata,Cash on Delivery,Cancelled
+ORD2795,P018,1,16-Feb-25,Mumbai ,UPI,Delivered
+ORD2562,p037,7,01 December 2024,Hyderabad,Net Banking,Delivered
+ORD1179,P016,3,2025-01-07,Delhi,Cash on Delivery,Cancelled
+ORD2111,P025,10,12/25/2024,Chennai,Debit Card,Delivered
+ORD2956,P004,8,02/25/2025,Bengaluru,Credit Card,Cancelled
+ORD1605,P002,8,28/12/2024, Kolkata,debit card,Cancelled
+ORD1218,P035,10,12-12-2024,Bangalore,debit card,Returned
+ORD1328,P017,7,17/02/2025,Pune,Debit Card,Delivered
+ORD2765,P001,1,2024-12-18,chennai,Cash on Delivery,Cancelled
+ORD1844,P025,5,25/12/2024,BENGALURU,Debit_Card,Delivered
+ORD1602,P014,4,12/26/2024,hyderabad,Debit Card,Returned
+ORD1410,P018,7,Jan 25 2025,Bengaluru,UPI,Delivered
+ORD2164,P039,9,28 January 2025,delhi,net banking,Delivered
+ORD2752,P019,8,2024-12-13,Kolkata,NET BANKING,Cancelled
+ORD2550,P020,5,Dec 19 2024,Ahmedabad,credit card,Delivered
+ORD1202,P005,3,19-01-2025,Pune,Cash on Delivery,Delivered
+ORD2723,P034,1,24-02-2025,ahmedabad,Cash on Delivery,Cancelled
+ORD1231,P033,8,2025-02-17,Hyderabad,Net Banking,Delivered
+ORD1585,P023,9,15-01-2025,delhi,DEBIT CARD,Returned
+ORD2391,P022,9,01/04/2025,Kolkata,Debit Card,Delivered
+ORD2270,P012,1,15 February 2025, Mumbai,cash on delivery,Delivered
+ORD1454,P006,5,03/01/2025,Hyderabad,Cash_on_Delivery,Delivered
+ORD2665,P015,2,12/28/2024,Kolkata,DC,Delivered
+ORD1063,P031,1,23/01/2025,Pune,Net Banking,Delivered
+ORD1148,p030,6,26 February 2025,Delhi,NET BANKING,Delivered
+ORD2509,p028,5,08 January 2025,Delhi,Net Banking,Delivered
+ORD1505,P027,4,25/01/2025,Ahmedabad,CASH ON DELIVERY,Delivered
+ORD2107,P034,9,2025-02-09,Delhi ,Net Banking,Returned
+ORD1411,P016,1,15 January 2025,Hyderabad,credit card,Delivered
+ORD1948,p022,8,12/23/2024,Bangalore,UPI,Cancelled
+ORD2952,P100,10,22-02-2025,kolkata,Net Banking,Returned
+ORD1843,P-006,1,12/12/2024,Bengaluru,DebitCard,Delivered
+ORD2967,P101,2,27-Feb-25,Kolkata,Cash on Delivery,Cancelled
+ORD1310,P014,9,14 December 2024,mumbai,Credit Card,Delivered
+N/A,P001,3,2024-12-22,Delhi,UPI,Delivered
+ORD1675,P038,-2,05-01-2025,Bengaluru,Debit Card,Returned
+ORD2390,P031,10,09-01-2025,Delhi,Cash_on_Delivery,Delivered
+ORD2733,P010,5,28 February 2025,Delhi,Debit Card,Cancelled
+ORD1725,p017,N/A,17 February 2025,Mumbai,CREDIT CARD,Delivered
+ORD2768,P011,1,01 January 2025,Bengaluru,UPI,Delivered
+ORD2435,P017,6,19-Jan-25,Delhi,UPI,Delivered
+ORD2512,P002,5,01/11/2025,kolkata,net banking,Cancelled
+ORD1228,P012,3,12/03/2024,Bangalore,net banking,Cancelled
+ORD1150,p025,1,2025-01-09,Mumbai,cash on delivery,Delivered
+ORD1973,P027,10,27 December 2024,Hyderabad,Credit Card,Cancelled
+ORD2888,P016,none,14/01/2025,Chennai,UPI,Delivered
+ORD2917,P023,3,25/12/2024,Kolkata ,Cash on Delivery,Delivered
+ORD2261,P016,2,02/12/2025,DELHI,Cash on Delivery,Delivered
+ORD2285,P004,5,09-12-2024,Kolkata,Cash on Delivery,Delivered
+ORD2365,p032,2,28-12-2024,Calcutta,NET BANKING,Returned
+N/A,P032,10,Dec 07 2024, Mumbai,NetBanking,Delivered
+ORD2004,P015,5,02/12/2024,Chennai,DC,Delivered
+ORD2580,P023,9,08 December 2024,Bengaluru,DC,Delivered
+ORD1652,P101,5,07-02-2025,kolkata,Cash on Delivery,Delivered
+ORD1039,P036,7,23-Jan-25,Hyderabad,cash on delivery,Delivered
+ORD2336,P-036,2,2024-12-01,Pune,Net Banking,Delivered
+ORD1017,p034,8,12-12-2024,Hyderabad,Credit Card,Delivered
+, P004,6,01/07/2025,AHMEDABAD,Credit Card,Cancelled
+ORD2155,P040,10,2024-12-25,bengaluru,Credit Card,Returned
+ORD1147,P013,8,29 December 2024,Hyderabad,Credit Card,Delivered
+ORD1208,P027,6,28-Feb-25,Mumbai,Credit Card,Delivered
+ORD2896,P001,4,16/01/2025,Ahmedabad,CREDIT CARD,Delivered
+ORD1011,P013,10,09-Jan-25,hyderabad,UPI,Delivered
+,p014,10,05-Dec-24,Mumbai,cash on delivery,Returned
+ORD1413,p023,9,Jan 01 2025,Ahmedabad,UPI,Cancelled
+ORD1894,P038,6,2025-01-08,Pune,Credit Card,Delivered
+ORD1477,P034,8,Jan 30 2025,Pune,Credit Card,Delivered
+ORD2437, P020,1,08-Jan-25,Pune,COD,Delivered
+ORD2430,P013,10,27 February 2025,Bengaluru,CASH ON DELIVERY,Returned
+ORD2666,P039,4,17-01-2025,AHMEDABAD,upi,Cancelled
+ORD1484,P022,1,18-Jan-25,Pune,DebitCard,Delivered
+ORD2455,P006 ,6,Feb 24 2025,Madras,credit card,Cancelled
+ORD2168,P039,2,01-Dec-24,Pune,cash on delivery,Returned
+ORD2143,P030,3,06 February 2025,Delhi,Cash on Delivery,Delivered
+ORD1256,P002,9,20/02/2025,delhi,CASH ON DELIVERY,Returned
+ORD2405,P009 ,5,2025-02-01,Bengaluru,Credit Card,Delivered
+ORD2092,P022,1,Jan 07 2025,Ahmedabad,UPI,Delivered
+ORD1964,P004,4,26-Dec-24,Delhi,net banking,Returned
+ORD1493,P021,5,25-Jan-25,kolkata,UPI,Delivered
+ORD1812,P022,3,02/20/2025,Pune,COD,Delivered
+ORD1820,P028,3,03-Dec-24,Mumbai ,Net Banking,Cancelled
+,P007,8,17-Feb-25,Delhi,credit card,Delivered
+ORD2127,P028,-,12/26/2024,Hyderabad,CREDIT CARD,Delivered
+ORD1632,P039,9,12-Feb-25,mumbai,Debit Card,Delivered
+ORD1950,P023,1,2025-01-13,Ahmedabad,UPI,Delivered
+ORD1845,P026,6,2025-01-03,Delhi,Cash on Delivery,Delivered
+ORD1249,P021,5,Dec 28 2024,Hyderabad,Credit Card,Cancelled
+ORD2713,P020,5,2025-02-18,Hyderabad ,NetBanking,Delivered
+ORD2694,P011,0,06-12-2024,Ahmedabad,Credit Card,Delivered
+ORD2360,P005,9,17/01/2025,Ahmedabad,UPI,Returned
+ORD1162, P021,10,29-Dec-24,BENGALURU,UPI,Delivered
+ORD1168,p026,6,11/12/2024,Ahmedabad,Cash on Delivery,Cancelled
+,P024,4,17-Jan-25,Chennai,UPI,Cancelled
+ORD2369,p019,,2025-01-19,AHMEDABAD,upi,Cancelled
+ORD2352,P039,1,2025-01-06,Ahmedabad,CREDIT CARD,Returned
+ORD1755,P003,4,29-12-2024,Mumbai,Cash on Delivery,Returned
+ORD2736,p020,9,22-12-2024,Delhi,upi,Delivered
+ORD2042,P029,6,06 December 2024,Pune,Cash on Delivery,Delivered
+ORD2824,P007,6,22-01-2025,Delhi,cash on delivery,Returned
+ORD2609,P026,0,07-02-2025,Hyderabad,UPI,Cancelled
+ORD2230,P005,10,15-Feb-25,chennai,Cash on Delivery,Delivered
+ORD2191,P002,8,02/19/2025,Ahmedabad,Cash on Delivery,Cancelled
+ORD1810,P011,10,10-Feb-25,MUMBAI,UPI,Delivered
+ORD2849,P015 ,6,12/30/2024,Ahmedabad,Cash on Delivery,Cancelled
+ORD2645,P006,2,11/01/2025,Bengaluru,NetBanking,Cancelled
+ORD1776,P029,-,2024-12-08,Hyderabad,Cash on Delivery,Delivered
+ORD2013,P022,1,02/22/2025,Kolkata,Credit Card,Delivered
+ORD1012,P038,7,Dec 22 2024,Chennai,Net Banking,Returned
+ORD2098,P039,8,Dec 09 2024,Chennai,Credit_Card,Delivered
+ORD2333, P030,,01/09/2025,bengaluru,COD,Delivered
+ORD1432,P101,3,30/01/2025,Mumbai,credit card,Cancelled
+ORD1337,P016,10,28/02/2025,Bengaluru,Net Banking,Delivered
+ORD1504,P023,3,12/12/2024,Ahmedabad,credit card,Delivered
+ORD1884,P014,4,24-02-2025,Delhi,Debit Card,Delivered
+ORD2815,P-025,5,07-Jan-25,Chennai,Credit Card,Delivered
+ORD1115, P037,2,05-02-2025,Chennai,UPI,Cancelled
+ORD2868,p018,6,Dec 19 2024,pune,Debit Card,Cancelled
+ORD1187,P006 ,3,Feb 25 2025,Chennai,net banking,Delivered
+ORD1189,P018,8,25 December 2024,kolkata,Net Banking,Delivered
+ORD2012, P011,4,02/10/2025, Pune,net banking,Delivered
+ORD2392,P040,2,24/02/2025,chennai,UPI,Delivered
+ORD2701,p024,9,21-Feb-25,delhi,DC,Delivered
+ORD1728,P011,7,27/12/2024,Ahmedabad,COD,Returned
+ORD1112,P024,9,Dec 14 2024,Pune,Credit Card,Delivered
+ORD1248,P018,6,2025-01-27,Bangalore,CASH ON DELIVERY,Delivered
+ORD1958,P002,9,08/01/2025,Kolkata,Credit Card,Delivered
+ORD1152,P014,9,11-12-2024,Bengaluru,Debit Card,Delivered
+ORD2294,P036,4,2025-02-14,Pune,UPI,Delivered
+ORD1696,p031,9,12/01/2025,Mumbai,credit card,Delivered
+ORD2015,P007,10,01/19/2025,Pune,CASH ON DELIVERY,Returned
+ORD1061,P023,9,12/31/2024,Bengaluru,Debit Card,Delivered
+ORD2866,P040,1,2025-02-27,Pune,Net Banking,Delivered
+ORD1234,p011,3,10-01-2025,Chennai,UPI,Delivered
+ORD1736,P006 ,1,25-12-2024,Pune,Net Banking,Returned
+ORD2140,P013,10,07/12/2024,PUNE,Debit Card,Returned
+ORD2279,P020 ,5,29/01/2025,Pune,Credit Card,Delivered
+ORD2077,P038 ,10,08-Jan-25,AHMEDABAD,Cash on Delivery,Delivered
+ORD2413,P009 ,6,02/10/2025,Ahmedabad,Credit Card,Delivered
+ORD1325,P003,9,23 February 2025,Ahmedabad,Net Banking,Delivered
+ORD2577,P011 ,8,24-02-2025,Mumbai,Net_Banking,Returned
+ORD1801,P013,none,01/21/2025,Hyderabad,Debit Card,Delivered
+ORD2673, P040,7,Dec 28 2024,BENGALURU,Credit Card,Cancelled
+ORD1227,P002,9,08/12/2024,Hyderabad,Net Banking,Delivered
+ORD1034,P027,1,19-Jan-25,Ahmedabad,Cash on Delivery,Delivered
+ORD1158,P032,3,08-12-2024,kolkata,Cash on Delivery,Delivered
+ORD1609,p039,6,21-Feb-25,Chennai,UPI,Delivered
+ORD2875,P034,5,17 January 2025,Kolkata,Credit Card,Cancelled
+ORD2657,P015,8,18/12/2024,ahmedabad,Debit_Card,Returned
+ORD2156,P026,1,Jan 07 2025,Bengaluru,Net Banking,Delivered
+ORD2520,P100,4,04-12-2024,Delhi,net banking,Delivered
+ORD1711,P038,3,01/10/2025,mumbai,Credit Card,Returned
+ORD2629,P099,none,12/25/2024,Delhi,Credit Card,Returned
+ORD1712,P034,4,17/12/2024,Ahmedabad ,Net Banking,Delivered
+ORD2930,P001,9,02/14/2025,Pune,DC,Delivered
+ORD2614,P038,10,2024-12-06,Delhi,Cash on Delivery,Delivered
+ORD1172,P031,7,27-Jan-25,AHMEDABAD,credit card,Delivered
+ORD1295,P039,10,02/09/2025,Bengaluru ,UPI,Delivered
+ORD1131,P016,2,09-02-2025,Chennai,NET BANKING,Cancelled
+ORD1426,P031,1,03 December 2024,ahmedabad,Credit Card,Cancelled
+ORD2386,P015,1,Jan 15 2025,Pune,credit card,Delivered
+ORD1234,p011,3,10-01-2025,Chennai,UPI,Delivered
+ORD1177,P015,4,02/22/2025,Bengaluru,Debit Card,Delivered
+ORD2354,P015,4,01/04/2025,Pune,Credit Card,Delivered
+ORD2950,P003,2,15-Feb-25,Kolkata,Debit Card,Returned
+ORD1430,P040,9,2024-12-31,ahmedabad,cash on delivery,Delivered
+ORD2183,P036,6,Feb 04 2025,Bengaluru,Net Banking,Cancelled
+ORD1909,P013,7,02-Jan-25,delhi,Cash on Delivery,Delivered
+,P021 ,4,12/26/2024, Mumbai,Cash_on_Delivery,Delivered
+ORD2162,P013,3,Feb 11 2025,Delhi,Debit Card,Delivered
+ORD1582,P017,8,11/01/2025,PUNE,NET BANKING,Cancelled
+ORD2269,P025,9,08/12/2024,hyderabad,Net Banking,Delivered
+ORD1982,P013,7,2025-02-02,Mumbai,Net Banking,Returned
+ORD2534,P039,2,13 January 2025,Hyderabad,Debit Card,Delivered
+ORD1642,P010,7,13 December 2024,BENGALURU,Cash on Delivery,Delivered
+ORD2484,P040,1,14 December 2024,Kolkata,Debit Card,Cancelled
+ORD1429,p002,2,19/01/2025,hyderabad,debit card,Cancelled
+ORD2953,P003,0,22-12-2024,Hyderabad,Credit Card,Delivered
+ORD1483,P011,8,19 January 2025,ahmedabad,UPI,Delivered
+ORD2721,P028,2,Feb 12 2025,pune,net banking,Delivered
+ORD2803,P002,4,01/01/2025,ahmedabad,debit card,Cancelled
+ORD1304,P016,9,Dec 06 2024,Mumbai,DC,Delivered
+ORD2388,P020,4,29 January 2025,Kolkata,Credit Card,Delivered
+ORD2258,P002,7,Feb 16 2025,Kolkata,DEBIT CARD,Returned
+ORD2359,P015,1,23-02-2025,Ahmedabad,credit card,Delivered
+ORD2638,p100,10,09-Jan-25,chennai,CASH ON DELIVERY,Delivered
+ORD1277,P037,10,Feb 25 2025,Delhi,Cash on Delivery,Delivered
+ORD2631,P022,1,11/01/2025,Bengaluru,Net Banking,Delivered
+ORD1826, P003,1,2024-12-14,Kolkata,UPI,Delivered
+ORD1782,P038 ,5,09 February 2025,Chennai,credit card,Delivered
+ORD1049,P029,5,01/12/2025,PUNE,CASH ON DELIVERY,Delivered
+ORD2325,P039,3,22 February 2025,Pune ,net banking,Cancelled
+ORD2981,P020 ,9,24/12/2024,bengaluru,Net Banking,Returned
+ORD2844,p002,5,26/01/2025,Delhi ,UPI,Returned
+ORD1855,P013 ,7,Feb 03 2025,mumbai,Net Banking,Delivered
+ORD1045,P018,7,25-Jan-25,Pune,Cash on Delivery,Cancelled
+ORD2848,P025,4,2025-01-01,Mumbai,net banking,Delivered
+ORD2452,P013,4,29-12-2024,Kolkata,DEBIT CARD,Delivered
+ORD2382,P023,-,12 February 2025,Chennai,Credit Card,Delivered
+ORD1229,P011,8,18-Dec-24,Bangalore,Cash on Delivery,Cancelled
+ORD1132,P019 ,6,03 February 2025,Mumbai ,U.P.I,Delivered
+ORD2059,P037,10,03-01-2025,ahmedabad,CREDIT CARD,Delivered
+N/A,P036,3,20/01/2025,Hyderabad,Credit Card,Cancelled
+ORD2998,P022,5,05/12/2024,Ahmedabad,UPI,Delivered
+ORD2137,P037,2,21 February 2025,Chennai,debit card,Delivered
+ORD2238,P004,7,Jan 21 2025,chennai,UPI,Delivered
+ORD2099,p003,4,12-Dec-24,Pune,Credit Card,Delivered
+ORD2703,p016,4,Feb 03 2025,Mumbai ,Credit_Card,Returned
+ORD1386,P022,6,2025-02-10,Bengaluru,Cash on Delivery,Cancelled
+ORD1942,P022,6,19-02-2025,Kolkata,debit card,Cancelled
+ORD1936,P028,6,14-01-2025,bengaluru,Cash on Delivery,Returned
+ORD2250,P002,9,23 February 2025,Chennai,UPI,Returned
+ORD2031,P002,2,02/01/2025,Delhi ,Cash on Delivery,Delivered
+ORD1474,P006,9,2025-02-07,MUMBAI,U.P.I,Returned
+ORD2453,p006,7,15-Feb-25,Mumbai,UPI,Cancelled
+ORD1312,P020,10,30-12-2024,Ahmedabad,Cash on Delivery,Delivered
+ORD2119,P039,4,14 December 2024,Hyderabad,Debit Card,Delivered
+ORD1645,P005,1,08 January 2025,Pune,Net Banking,Delivered
+ORD1966,P-002,5,02/12/2024,Bengaluru,Debit Card,Returned
+ORD1314,P035,7,24 January 2025,Pune,Net Banking,Delivered
+ORD1651,P022,10,01-Feb-25,Delhi,NetBanking,Delivered
+ORD1196,P030,9,12-12-2024,Ahmedabad ,Debit Card,Returned
+ORD1305,P024,4,10 December 2024,chennai,Cash on Delivery,Returned
+ORD1265,P038,2,12 January 2025,hyderabad,UPI,Delivered
+ORD1770,P013,8,Feb 19 2025,Mumbai,CREDIT CARD,Delivered
+ORD1176,P038,8,19-Feb-25,Ahmedabad,Net Banking,Cancelled
+ORD3000,P038,6,2025-02-27,hyderabad,DebitCard,Returned
+ORD2469,P023,2,2024-12-27, Pune,Cash on Delivery,Returned
+ORD2810,P016,2,2024-12-28,CHENNAI,Debit Card,Returned
+ORD1726,P013,2,28-12-2024,Mumbai,Debit Card,Delivered
+ORD2335,P021,3,24 December 2024,Hyderabad,Cash on Delivery,Cancelled
+ORD1941,P033,1,19/12/2024,Mumbai,Debit Card,Delivered
+ORD1778,P001,7,12/08/2024,mumbai,Credit Card,Delivered
+ORD2503,P011,1,11/02/2025,Bangalore,UPI,Delivered
+ORD1974,P013,2,Jan 09 2025,hyderabad,CASH ON DELIVERY,Delivered
+ORD2785,P002,4,07-12-2024,kolkata,Debit Card,Delivered
+N/A,P037,8,01/19/2025,AHMEDABAD,Debit Card,Returned
+ORD1924,P039,7,24/01/2025,Hyderabad,Debit_Card,Delivered
+ORD2449,P022,6,06-12-2024,Kolkata,COD,Delivered
+ORD2456,P002,1,13/01/2025,Mumbai,Net Banking,Returned
+ORD2161,P036 ,6,2024-12-18,Kolkata,upi,Delivered
+ORD1183,p031,none,02/05/2025,ahmedabad,Debit Card,Delivered
+ORD1072,P036,10,2024-12-30,Pune,Credit Card,Cancelled
+ORD1710, P039,1,25/01/2025,Pune ,Net Banking,Delivered
+ORD1916,P005,7,19-12-2024,Hyderabad ,UPI,Cancelled
+ORD2708,P032,9,13/12/2024,Bengaluru,net banking,Cancelled
+ORD2204,P030,10,23/01/2025,mumbai,Debit Card,Returned
+ORD1082,P-020,9,09-Dec-24,Ahmedabad,CashonDelivery,Cancelled
+ORD1951,P001,10,19/01/2025,Chennai,UPI,Returned
+ORD1355, P004,7,20/02/2025,Pune,Cash on Delivery,Cancelled
+ORD2598,P009,7,Dec 28 2024, Ahmedabad,UPI,Delivered
+ORD2219,P021,4,26/01/2025,Delhi,Credit Card,Delivered
+ORD2146,P025,1,13 January 2025,Bengaluru,Debit Card,Delivered
+ORD1422,P002,4,18/02/2025,Delhi,UPI,Returned
+ORD2876,p014,2,02 December 2024,Mumbai ,cash on delivery,Delivered
+ORD1979,P015 ,4,10/02/2025,Ahmedabad,Debit Card,Cancelled
+ORD2316,P020,8,2025-01-12,Pune,U.P.I,Delivered
+ORD1479,P022,10,2025-01-04, Kolkata,Debit Card,Delivered
+ORD1949,P026,6,18/12/2024,PUNE,Credit Card,Delivered
+ORD1575,P012,none,13/02/2025,Pune,Net Banking,Delivered
+ORD2299,P024,10,2025-02-01,Delhi,DEBIT CARD,Delivered
+ORD1188,P014 ,3,2024-12-24,Ahmedabad,Net Banking,Cancelled
+ORD1318,P037,10,02/05/2025,chennai,CREDIT CARD,Delivered
+ORD1811,P099,4,02/20/2025, Delhi,Net Banking,Returned
+ORD2968, P006,8,03 February 2025,Bengaluru,Credit Card,Cancelled
+ORD2560,P036,4,03-12-2024,Hyderabad,UPI,Delivered
+ORD2922,P011,3,11/01/2025,Delhi ,NetBanking,Delivered
+ORD1310,P014,9,14 December 2024,mumbai,Credit Card,Delivered
+ORD2661,p036,2,2025-01-21,Mumbai,Credit Card,Delivered
+ORD2065,P100,3,02/16/2025,Mumbai,UPI,Returned
+ORD1343,p026,3,05-Dec-24, Pune,U.P.I,Returned
+ORD1317,P002,5,Jan 19 2025,kolkata,Net Banking,Cancelled
+ORD1807,P018 ,10,12/04/2024,Pune,Credit Card,Delivered
+ORD2407,P024,8,08-Feb-25,Ahmedabad,UPI,Returned
+ORD2962,P022 ,1,Jan 17 2025,Ahmedabad,Credit_Card,Returned
+ORD2090,P030,6,19/02/2025,Pune ,Debit Card,Returned
+ORD2125,P006 ,4,28 February 2025, Mumbai,Cash on Delivery,Returned
+ORD2475,P003,7,02/27/2025,Pune ,NetBanking,Cancelled
+ORD2784,P010,7,12-Feb-25,Mumbai,cash on delivery,Cancelled
+ORD1455,P039,1,03/01/2025,bengaluru,CreditCard,Delivered
+ORD1197,p099,8,02/01/2025,Pune,UPI,Delivered
+ORD2343,P015,1,20-01-2025,Hyderabad,UPI,Cancelled
+ORD2677,P037,7,Dec 21 2024,Mumbai,UPI,Delivered
+ORD1217,P008,2,26/12/2024,Bengaluru,Net Banking,Delivered
+ORD2597,P031,1,Jan 31 2025,Delhi,Debit Card,Cancelled
+ORD2704,P032,9,02/08/2025,Ahmedabad,UPI,Cancelled
+ORD1080,P031,9,01 January 2025,bengaluru,Net Banking,Delivered
+ORD1128,P014,3,17 February 2025,Kolkata,Credit Card,Returned
+ORD2057,P015,4,12/28/2024,Pune,DEBIT CARD,Delivered
+ORD1331,p016,9,12 January 2025,CHENNAI,Debit Card,Delivered
+ORD2745,P036,6,01-01-2025,Chennai,Net Banking,Delivered
+ORD1381,P003,8,11 January 2025,Bengaluru,U.P.I,Delivered
+ORD2851,P031,3,21 December 2024,Ahmedabad,CASH ON DELIVERY,Delivered
+ORD1647,P039,3,16/02/2025,Hyderabad,net banking,Delivered
+ORD2997,P004,4,Jan 05 2025,Bangalore,Net Banking,Cancelled
+ORD2492,P006,4,Dec 20 2024,Mumbai,UPI,Delivered
+ORD2906, P007,6,Dec 13 2024,Bengaluru,Net Banking,Delivered
+ORD2323,P-023,7,30/12/2024,Delhi,UPI,Delivered
+ORD1608,P014,10,21-Feb-25,Mumbai,Credit Card,Returned
+ORD1166,P015,4,23-12-2024,Delhi,UPI,Delivered
+ORD2055,p034,7,01/22/2025,Ahmedabad,Cash on Delivery,Delivered
+ORD1349,P013,9,Jan 29 2025,chennai,Net Banking,Returned
+ORD1600,P006,,03-12-2024,DELHI,CC,Delivered
+ORD2538,P007,3,12/18/2024,Hyderabad,Cash on Delivery,Returned
+ORD2482,P026,9,23-Feb-25,Mumbai ,Net Banking,Delivered
+ORD1203,P034,9,23/02/2025,Chennai,credit card,Delivered
+,P018,3,01/29/2025,Chennai,COD,Delivered
+ORD2758,P006,4,12/02/2025,MUMBAI,UPI,Delivered
+ORD1590,P021,6,Dec 05 2024,BENGALURU,CC,Returned
+ORD2026,P028,7,01/17/2025,Kolkata,NET BANKING,Cancelled
+ORD1852,P007,4,23-Dec-24,Madras,Debit Card,Delivered
+ORD2626,P003,6,28/01/2025,Kolkata,Credit Card,Delivered
+ORD1862,P015,4,2025-01-05,pune,COD,Cancelled
+ORD2814,P008,N/A,18-Dec-24,kolkata,Credit Card,Delivered
+ORD1579,p033,10,23-Feb-25,BENGALURU,Net Banking,Returned
+ORD2646,P015,8,26-Dec-24,Mumbai,Credit Card,Cancelled
+ORD1722,P009,3,18 January 2025,chennai,upi,Delivered
+ORD1233,P036,2,Feb 02 2025,kolkata,Debit Card,Delivered
+ORD1244,P010,6,19-12-2024,Kolkata,UPI,Delivered
+ORD1130,P001,6,14 December 2024, Kolkata,CC,Returned
+ORD1362,P039,7,15-02-2025,delhi,Credit Card,Delivered
+ORD1739,P024,1,27-12-2024,DELHI,UPI,Returned
+ORD2899,P015,7,31/01/2025,Bombay,Debit Card,Delivered
+ORD1563, P010,10,03/02/2025, Ahmedabad,Credit Card,Delivered
+ORD1159,P007,2,04-Jan-25,Kolkata,NetBanking,Cancelled
+ORD2565,p023,10,15 January 2025,Hyderabad,Net Banking,Delivered
+ORD2148,P-002,1,27-Feb-25,Pune,UPI,Delivered
+ORD2637, P024,10,2024-12-06,BENGALURU,Debit Card,Returned
+ORD1048,P008,2,30 January 2025,Ahmedabad,Cash on Delivery,Cancelled
+ORD1134,P022,10,27 February 2025,Mumbai,Net Banking,Delivered
+ORD1586,P007 ,5,12 January 2025,Chennai,debit card,Cancelled
+ORD2552,P019,1,30/01/2025,MUMBAI,Cash on Delivery,Returned
+ORD2504,P023,-,26/12/2024,pune,Credit Card,Delivered
+ORD1133,P023,,08-01-2025,Pune,Net Banking,Returned
+ORD1633,P022,8,14/12/2024,Kolkata,upi,Delivered
+ORD1029,P013,-2,10-Jan-25,Kolkata,Net Banking,Returned
+ORD1136,P036,6,08 December 2024,Bengaluru ,Net Banking,Delivered
+ORD1686,P027,3,2024-12-10,mumbai,Credit Card,Cancelled
+ORD1495,P004,10,2025-02-03,Delhi,NetBanking,Cancelled
+,P038,10,12/18/2024,Kolkata,Cash on Delivery,Cancelled
+ORD2486,P038 ,7,14/01/2025,Hyderabad,Net Banking,Returned
+ORD2440,P011,1,26-01-2025,Kolkata,Cash on Delivery,Delivered
+ORD1509,P019,9,13-Jan-25, Ahmedabad,CC,Delivered
+ORD2037,P026,6,2024-12-09,DELHI,UPI,Delivered
+ORD1580,P026,10,01/10/2025,Kolkata,Credit Card,Returned
+ORD1110,P020,1,19-02-2025,hyderabad,Credit Card,Delivered
+ORD2078,P017,7,Dec 20 2024,Delhi,Net Banking,Delivered
+ORD2799,P039,6,24-Jan-25,Kolkata,Cash on Delivery,Delivered
+ORD1374,P039,4,08 January 2025,Ahmedabad,Debit Card,Delivered
+ORD1098,P002,9,06-Jan-25,Delhi,UPI,Cancelled
+ORD2081,P003,2,Dec 02 2024,BENGALURU,net banking,Delivered
+ORD1472,P011,N/A,02/12/2024,Delhi,UPI,Returned
+ORD2699,p010,4,Feb 12 2025,Kolkata,Credit Card,Delivered
+ORD2794,P031 ,7,15-01-2025,Mumbai,Credit Card,Delivered
+ORD1103,p005,9,10/12/2024,Chennai,UPI,Delivered
+ORD1721,P002,3,01/03/2025, Delhi,Net Banking,Delivered
+ORD2548,P-009,4,22/02/2025,Ahmedabad,Net Banking,Returned
+ORD2582, P013,-2,2024-12-28,Pune,DC,Delivered
+ORD1545,P035,3,2024-12-16,Hyderabad,Cash_on_Delivery,Delivered
+ORD1680,p004,7,06/02/2025,BENGALURU,upi,Cancelled
+ORD1760,p021,10,02/27/2025,Pune,upi,Delivered
+ORD1275,P100,4,01/16/2025,ahmedabad,UPI,Delivered
+ORD1078,P006,5,2025-01-23,Delhi,COD,Cancelled
+ORD1995, P031,7,2025-01-18,bengaluru,Cash on Delivery,Delivered
+ORD2129,P007,3,20 December 2024,Kolkata,UPI,Delivered
+ORD2732,p009,9,09/02/2025,kolkata,Cash on Delivery,Delivered
+ORD2533,P029,5,2024-12-07,Chennai,upi,Delivered
+ORD2777,P021,N/A,27-Jan-25,Delhi,CreditCard,Delivered
+ORD1913,P031,3,12/01/2025,mumbai,CashonDelivery,Delivered
+ORD1688,P032,8,02/22/2025,Hyderabad,Cash on Delivery,Delivered
+ORD1532,P021,8,20 December 2024,Delhi,UPI,Returned
+ORD1181,P-024,7,12/06/2024,Kolkata,Debit Card,Returned
+ORD1101,P014,3,01/02/2025,Bengaluru,DebitCard,Delivered
+ORD1873,P024,10,Jan 23 2025,Kolkata,CreditCard,Cancelled
+ORD2283,P013,7,Dec 02 2024,Mumbai,UPI,Cancelled
+ORD2891,P034,7,Dec 31 2024,Delhi,cash on delivery,Returned
+ORD1443,P036,9,02/12/2025,Hyderabad,UPI,Delivered
+ORD1488,P008,7,03 January 2025,Mumbai ,debit card,Returned
+ORD1291,P025,7,28-12-2024,kolkata,upi,Delivered
+ORD2011,P008,10,2025-02-01,Mumbai,Debit Card,Cancelled
+ORD2281,P004,9,25-Dec-24,Bengaluru,Cash on Delivery,Delivered
+ORD1183,p031,none,02/05/2025,ahmedabad,Debit Card,Delivered
+,P039,9,05-01-2025,pune,Net Banking,Delivered
+ORD2222,P025,7,2025-01-15,BENGALURU,Credit_Card,Cancelled
+ORD1387,P-002,5,30 January 2025,Bengaluru,UPI,Cancelled
+ORD1599,P002,8,02/01/2025,Delhi,Credit_Card,Delivered
+ORD2363,P033,9,2025-02-19,pune,Credit Card,Returned
+ORD1986,p012,2,2025-02-04,Delhi,upi,Returned
+ORD2068,P099,3,14-02-2025,Bengaluru,Debit Card,Delivered
+ORD2691, P001,10,2025-01-01,KOLKATA,Credit Card,Delivered
+ORD2213,P029,3,16-Jan-25,Chennai,Cash on Delivery,Delivered
+ORD2994, P009,6,03 December 2024,Ahmedabad,Cash on Delivery,Delivered
+ORD1350,P014,10,24 December 2024,Mumbai,Net Banking,Returned
+ORD2753,P034,,01/12/2024,Delhi,Debit_Card,Delivered
+ORD1518,P-013,9,Dec 24 2024,Kolkata,Cash on Delivery,Delivered
+ORD1917,P025,-,05-Feb-25,Madras,credit card,Delivered
+ORD1831,P036,7,2025-02-13,Chennai,Debit_Card,Cancelled
+ORD1351,p006,2,2025-01-06,PUNE,Cash on Delivery,Cancelled
+ORD1729,P023,9,09 December 2024,Ahmedabad,credit card,Returned
+ORD2892,P001,2,17-12-2024,Delhi,Debit Card,Cancelled
+ORD1158,P032,3,08-12-2024,kolkata,Cash on Delivery,Delivered
+ORD2948,P032 ,3,02/22/2025,Kolkata,Debit Card,Delivered
+,P016 ,7,26-12-2024,Chennai,Cash on Delivery,Delivered
+ORD2878,P008,4,13-12-2024,Bengaluru,credit card,Delivered
+ORD2767,P007,2,Dec 10 2024,hyderabad,Net Banking,Cancelled
+ORD1832,P009,7,14-Dec-24,Bengaluru,Net Banking,Delivered
+ORD1552,P011,9,Jan 02 2025,Delhi,upi,Returned
+ORD1114,P007,6,15/01/2025,Mumbai,Debit Card,Delivered
+ORD2757,P-011,1,2025-01-28,delhi,Net Banking,Delivered
+ORD1282,P039,5,02/26/2025,Chennai,Credit Card,Returned
+ORD2021,P021,1,25-01-2025,Ahmedabad,CC,Cancelled
+ORD1565,P025,7,02/22/2025,MUMBAI,Debit_Card,Delivered
+ORD2496,P033,5,09-12-2024,Ahmedabad,UPI,Delivered
+ORD1137,P030,4,02/26/2025,CHENNAI,Net Banking,Delivered
+ORD1557,p022,4,26-02-2025,kolkata,Debit Card,Returned
+ORD1751,P036,6,2025-01-27,Bengaluru,Debit Card,Returned
+ORD2687,P012,5,10-Jan-25,Ahmedabad,Net Banking,Delivered
+ORD1740,P020,9,10 January 2025,Chennai,Cash on Delivery,Cancelled
+ORD2727,p003,7,2024-12-27,Ahmedabad ,Cash on Delivery,Delivered
+ORD1169,p021,5,04/01/2025,Mumbai,UPI,Cancelled
+ORD2809,P037,3,12/15/2024,Bengaluru ,upi,Returned
+ORD2121,P032,10,14-02-2025,hyderabad,CashonDelivery,Cancelled
+,P003,1,14-02-2025,Hyderabad,Cash on Delivery,Returned
+ORD1044,P023,10,14-12-2024,chennai,Net Banking,Returned
+ORD1308,P006,1,24 December 2024,Kolkata,Net Banking,Returned
+ORD1163,P038,8,13/01/2025,Chennai,Cash on Delivery,Returned
+ORD1694,P019,5,01 March 2025,hyderabad,COD,Returned
+ORD1640,P002,10,12/31/2024,kolkata,Cash on Delivery,Delivered
+ORD1999,P021,7,01/30/2025,Delhi,UPI,Delivered
+ORD2857,P021,,2025-02-01,Pune,cash on delivery,Returned
+ORD1367,P017,9,2024-12-19,Mumbai,Cash on Delivery,Delivered
+ORD1085,P027,7,12/28/2024, Kolkata,Cash on Delivery,Returned
+ORD1161,P020,8,15/01/2025,Madras,Debit Card,Delivered
+ORD2159,P033,8,04/02/2025,Bengaluru,Cash on Delivery,Delivered
+ORD2925,P032,3,Jan 09 2025,BENGALURU,Debit Card,Cancelled
+ORD2524,P002,5,2024-12-14,Chennai ,Net Banking,Delivered
+ORD2764,P014,2,12/11/2024,Pune ,Cash on Delivery,Delivered
+ORD2205,P019,10,24-02-2025,CHENNAI,net banking,Cancelled
+ORD2755,P040,5,20/02/2025,Bengaluru,Cash on Delivery,Returned
+ORD1375,P008,8,Dec 04 2024,Pune,upi,Cancelled
+ORD1399,p011,6,Jan 01 2025,bengaluru,UPI,Delivered
+ORD1481,P003,8,05-Feb-25,ahmedabad,Cash on Delivery,Delivered
+ORD1018,P011,4,28 February 2025,Ahmedabad,Credit Card,Delivered
+ORD1875,P027,4,31/12/2024,Bengaluru,Cash on Delivery,Returned
+ORD1236,p024,,2025-01-08, Hyderabad,UPI,Delivered
+ORD2977,P029,4,17-Feb-25,Mumbai,CreditCard,Delivered
+ORD2608,P036,1,27-12-2024,HYDERABAD,CASH ON DELIVERY,Delivered
+ORD2308,P002,6,14-Jan-25,Mumbai,UPI,Delivered
+,P008,3,01/06/2025,Bengaluru,Cash on Delivery,Returned
+ORD2487,P003,0,12/22/2024,Hyderabad,UPI,Cancelled
+ORD1356,P038,7,10 January 2025,Pune,Debit_Card,Delivered
+ORD1121,P019,8,16 December 2024,Hyderabad,credit card,Delivered
+ORD2165,P019,2,Jan 09 2025,Hyderabad,Credit Card,Returned
+ORD2821,P013,1,Dec 07 2024,Hyderabad,UPI,Cancelled
+ORD1323,P001,6,03-01-2025,HYDERABAD,Debit Card,Delivered
+ORD2973,P031,9999,08-Jan-25,ahmedabad,Debit Card,Delivered
+ORD2696,P035,10,Dec 30 2024,DELHI,DebitCard,Returned
+ORD1416,P035,10,02/12/2024,Delhi,Net Banking,Delivered
+ORD2245,P026,2,12 February 2025, Mumbai,Debit Card,Delivered
+ORD2266,P004,7,29-Dec-24,Pune,Net Banking,Delivered
+ORD1327,P006 ,1,16/12/2024,Ahmedabad,DEBIT CARD,Cancelled
+ORD2311,P021 ,4,29-Jan-25,kolkata,Net Banking,Delivered
+ORD2075,P008,8,22-12-2024,Ahmedabad,UPI,Delivered
+ORD1967,P008,8,19/02/2025,hyderabad,Debit Card,Cancelled
+ORD1169,p021,5,04/01/2025,Mumbai,UPI,Cancelled
+,P037,5,12/15/2024,Kolkata,Cash on Delivery,Delivered
+ORD2871,P013 ,3,04/12/2024,Chennai,CreditCard,Delivered
+ORD1850, P019,7,01/23/2025,Kolkata,DEBIT CARD,Returned
+ORD2214,P014,9,Feb 23 2025,Hyderabad,UPI,Delivered
+ORD1668,P012,2,01/06/2025,ahmedabad,Debit Card,Returned
+ORD2545,p012,8,15 December 2024,Bengaluru,net banking,Cancelled
+ORD1071,P022,7,28 February 2025,Chennai,UPI,Returned
+ORD1985,P035,6,01/24/2025,kolkata,Debit Card,Delivered
+ORD1154,P036,1,Dec 31 2024,HYDERABAD,UPI,Delivered
+ORD1511,P007 ,5,Dec 07 2024,Hyderabad,Credit Card,Delivered
+ORD2444, P101,4,Jan 02 2025,Pune ,Net Banking,Delivered
+ORD1346,P001,1,05-Jan-25,delhi,CASH ON DELIVERY,Cancelled
+ORD2233, P002,4,12/16/2024,Pune,Net Banking,Delivered
+ORD1469,P029,2,15-Dec-24,Kolkata,Cash on Delivery,Returned
+ORD1087,P015,10,24-Feb-25,kolkata,UPI,Returned
+ORD1370,P013,9,2025-01-15,Pune,Debit Card,Delivered
+ORD2243,p002,5,Jan 04 2025,Kolkata,Cash on Delivery,Delivered
+ORD1813,P017,5,13-12-2024,Hyderabad,UPI,Returned
+ORD2115,P013,5,24-Feb-25,hyderabad,Cash on Delivery,Delivered
+ORD1915,p036,6,02 January 2025,BENGALURU,DEBIT CARD,Cancelled
+ORD2086,P004,5,2025-01-27,Bengaluru,Credit Card,Cancelled
+ORD2483,P004,9999,Mar 01 2025,Hyderabad,Debit Card,Delivered
+ORD2874,P026,2,23/01/2025,Bengaluru,Cash on Delivery,Delivered
+ORD2789,P004,10,07/02/2025, Pune,DC,Delivered
+ORD2812,p011,4,22/02/2025,Mumbai,CASH ON DELIVERY,Delivered
+ORD1062,P027,8,04/02/2025,Chennai,Cash_on_Delivery,Returned
+ORD2349,P007,2,22-Dec-24,Kolkata,Credit Card,Delivered
+ORD2780,P036,6,01/12/2025, Hyderabad,Debit Card,Delivered
+ORD2265,P026,1,15-02-2025,Mumbai,Net Banking,Delivered
+ORD1620,P001,5,09/12/2024,Kolkata,net banking,Delivered
+ORD2990,P036,9,26-01-2025,Hyderabad,debit card,Cancelled
+ORD2241,P016,1,01-Mar-25,KOLKATA,Net Banking,Delivered
+ORD1508,P013,10,2025-02-16,Mumbai,UPI,Delivered
+ORD1664, P028,2,25-Jan-25,ahmedabad,Debit_Card,Delivered
+ORD1014,P002,8,12-Jan-25,Delhi,Net Banking,Delivered
+ORD2085,P024,5,2025-01-21,Kolkata,credit card,Cancelled
+ORD2216,P032,9,23-Feb-25,Delhi,Debit Card,Delivered
+ORD1637,P007,10,09 February 2025,kolkata,UPI,Delivered
+ORD1717,P017,4,Feb 21 2025,Kolkata,upi,Returned
+ORD2305,P001,7,12/02/2025,MUMBAI,upi,Delivered
+ORD1342,P039,1,06-Jan-25,Chennai,CC,Cancelled
+ORD1525,P003,2,29-Jan-25,Bengaluru,CASH ON DELIVERY,Delivered
+ORD1021,P023,9,11/02/2025,Delhi,UPI,Delivered
+ORD2800,P033,7,02/21/2025,pune,Cash on Delivery,Delivered
+ORD2345,P022,1,Dec 21 2024,Hyderabad,UPI,Returned
+ORD2837,P-006,7,02-12-2024,Mumbai,Net Banking,Delivered
+ORD2954,p023,1,Jan 24 2025,Bengaluru ,Credit Card,Delivered
+ORD1698,P019,2,2025-01-10,Kolkata,DC,Returned
+ORD1981,P003,2,12/18/2024,Chennai,Cash on Delivery,Returned
+ORD2089,P001,6,22/12/2024,Chennai,Cash on Delivery,Delivered
+,p024,10,28-12-2024,PUNE,Credit Card,Cancelled
+ORD1128,P014,3,17 February 2025,Kolkata,Credit Card,Returned
+ORD2951,P003,-2,01/09/2025,Ahmedabad,Cash on Delivery,Delivered
+ORD2999,p017,10,02-Feb-25,Delhi,Debit Card,Returned
+ORD2401,P034,10,07-Dec-24,Bengaluru,Credit Card,Returned
+ORD1543,P015,3,22 January 2025,Delhi,UPI,Delivered
+ORD1784,P016,5,15 December 2024,Bombay,cash on delivery,Returned
+ORD2540,P026,-2,2024-12-19,DELHI,DC,Delivered
+ORD1100,P020,7,2024-12-21,Pune ,Debit Card,Returned
+ORD2686,P039,2,Feb 18 2025,ahmedabad,credit card,Delivered
+ORD1497,P004,5,2025-02-08,Kolkata,Cash on Delivery,Cancelled
+ORD1704,P011,1,2024-12-11,KOLKATA,net banking,Delivered
+ORD2036,P006,7,Dec 17 2024,mumbai,Cash on Delivery,Delivered
+ORD1280,P008,3,27-12-2024,Chennai,Debit Card,Returned
+ORD1186,P013,8,26-12-2024,Ahmedabad,UPI,Delivered
+ORD1626,P024,1,12/01/2024,Pune,upi,Cancelled
+ORD2489,P039,8,19-12-2024,Bengaluru,Debit Card,Delivered
+ORD2551,P038,9,01/03/2025,Hyderabad,Debit Card,Delivered
+ORD1803,P022,3,17-01-2025,ahmedabad,Cash on Delivery,Delivered
+N/A, P021,0,01/28/2025,Kolkata,Debit Card,Cancelled
+ORD2601,P008,1,22/01/2025,kolkata,UPI,Delivered
+ORD2671,p018,8,10/12/2024,Bengaluru,net banking,Delivered
+ORD1391,P027,-,17/02/2025,Mumbai,Credit Card,Delivered
+ORD2531,P039,1,12/11/2024,Delhi,debit card,Delivered
+ORD1136,P036,6,08 December 2024,Bengaluru ,Net Banking,Delivered
+ORD1817,P030,9,09-Dec-24,MUMBAI,Net Banking,Delivered
+ORD1005,P013,3,12/27/2024,Chennai,UPI,Cancelled
+ORD2819,P023,9,2025-02-08, Mumbai,Credit_Card,Returned
+ORD1530,p006,,21-12-2024,Ahmedabad,UPI,Cancelled
+ORD2425,P029,3,15/02/2025,KOLKATA,CreditCard,Delivered
+ORD2707,P017,2,11-12-2024,Bengaluru,Credit Card,Delivered
+,P022,10,04-Dec-24,Delhi,Credit Card,Returned
+ORD2715,P020,8,10-12-2024,Mumbai,Net Banking,Cancelled
+ORD1047,p006,10,12/28/2024,Pune,Debit Card,Delivered
+ORD2464,P036,2,26-02-2025,Pune,Credit Card,Delivered
+ORD2370,P023,3,02/09/2025,Hyderabad,Net Banking,Cancelled
+ORD1517,P032,6,Jan 09 2025,bengaluru,Debit Card,Cancelled
+ORD1471,P030,7,2024-12-15,Delhi,upi,Cancelled
+ORD2208,P023,5,Jan 24 2025,bengaluru,UPI,Delivered
+ORD1442,P026,8,08-Dec-24,Chennai,Credit Card,Delivered
+ORD1294,P002,9,21-Dec-24,Hyderabad,CC,Cancelled
+ORD1107,P006,6,2025-01-25,Delhi,credit card,Returned
+ORD1496,P034,2,Jan 19 2025,Hyderabad,Cash on Delivery,Delivered
+ORD1395,P002,8,26-12-2024,Delhi,cash on delivery,Delivered
+ORD2893,P100 ,8,22 February 2025, Pune,UPI,Delivered
+ORD1336,P011,3,19-Feb-25,Bengaluru,Credit_Card,Delivered
+N/A,P022,5,12 January 2025, Kolkata,Debit Card,Returned
+ORD1589,P005,6,17 December 2024, Chennai,UPI,Delivered
+ORD2989,P015,9,2025-02-27,mumbai,UPI,Returned
+ORD2669,P023,8,14-02-2025,Bengaluru,debit card,Delivered
+ORD1834,P015,2,30-Jan-25,Pune,Debit Card,Delivered
+ORD2411,P026,2,02/27/2025,Kolkata,Net Banking,Delivered
+ORD1384,P017,1,2025-01-22,AHMEDABAD,upi,Cancelled
+ORD1354,P038,9,05 February 2025,Delhi,UPI,Cancelled
+ORD1860,P018,N/A,16-01-2025,MUMBAI,Net Banking,Cancelled
+ORD2223,P011,10,19-Jan-25,Delhi,Net Banking,Returned
+ORD2135,p034,1,12/04/2024,Mumbai,upi,Cancelled
+ORD1267,P028,3,13-12-2024,Mumbai,UPI,Returned
+ORD2522,P014,7,01-12-2024,Kolkata,Cash on Delivery,Cancelled
+ORD1733,P022,10,31 December 2024,Mumbai,debit card,Delivered
+ORD2988, P010,4,17 December 2024,Chennai,Net Banking,Cancelled
+ORD1897,p038,10,Feb 23 2025,Kolkata,cash on delivery,Delivered
+ORD1113,P002,4,Jan 28 2025, Mumbai,Debit Card,Delivered
+ORD2684, P021,7,07-01-2025,Delhi,Cash on Delivery,Delivered
+ORD1143,P021 ,9,14-Dec-24,pune,DEBIT CARD,Delivered
+ORD2979,P-013,1,2024-12-12,Kolkata,Cash_on_Delivery,Delivered
+ORD1377,P012,1,28 January 2025,Hyderabad,Cash on Delivery,Delivered
+ORD2207,p022,,30-12-2024,Delhi,Credit Card,Delivered
+ORD2834,P031,3,12/03/2024,Mumbai,NET BANKING,Cancelled
+ORD2654,p015,3,2024-12-31,Kolkata,UPI,Delivered
+ORD1457,P039,5,02/08/2025,Pune,Debit Card,Delivered
+ORD1771,P028,2,25 January 2025,Hyderabad,UPI,Delivered
+ORD2603,P031,9,2025-02-17,Bombay,Net Banking,Delivered
+ORD1833,P007,10,2024-12-01,hyderabad,Credit Card,Delivered
+ORD2297,P030,6,30/01/2025,Bombay,Net Banking,Cancelled
+ORD2167,P038,10,30 December 2024,Hyderabad,Debit Card,Cancelled
+,p012,1,27/02/2025,Bengaluru,Debit_Card,Delivered
+ORD1084,P023,9,02/13/2025,Pune,Cash on Delivery,Returned
+ORD2867,P015,5,Dec 22 2024,Mumbai,UPI,Delivered
+ORD2702,P013,10,13/01/2025,CHENNAI,Cash on Delivery,Cancelled
+ORD2526,P001,2,21 January 2025,chennai,debit card,Cancelled
+ORD1900,P006,9999,2025-01-29,Hyderabad,Cash on Delivery,Delivered
+ORD2790, P002,6,12/28/2024,Hyderabad,Credit Card,Cancelled
+ORD1903,P030,3,01/25/2025,Chennai,Cash on Delivery,Delivered
+ORD1907,P005,4,18-Jan-25,mumbai,Cash on Delivery,Returned
+ORD1070,P006,7,2025-01-26,PUNE,Net Banking,Delivered
+ORD1976,P015,4,26 December 2024,Bengaluru,Cash on Delivery,Delivered
+ORD2123,P028,4,14-12-2024,Ahmedabad,Credit Card,Delivered
+ORD1840,P002,1,13 December 2024,Chennai,CC,Cancelled
+ORD1271,P025,4,13 January 2025,delhi,Cash on Delivery,Cancelled
+ORD2064,P005,4,07/12/2024,Ahmedabad,Credit Card,Returned
+ORD1448,P003,6,12/01/2025,Mumbai,Net Banking,Returned
+ORD1139,P003,9,26/01/2025,CHENNAI,Cash on Delivery,Delivered
+ORD1836, P036,9,2025-01-29,PUNE,COD,Delivered
+ORD1373,P036,9,19-Dec-24,Bengaluru ,Debit Card,Delivered
+ORD2898,P-015,2,12/13/2024,Chennai,Credit Card,Cancelled
+ORD2961,P030 ,5,08-12-2024,Hyderabad,net banking,Delivered
+ORD1777,P-023,1,11-Dec-24,Ahmedabad,Credit Card,Delivered
+ORD1889,P035,10,12/15/2024,AHMEDABAD,Credit Card,Delivered
+ORD2628,P031,9,02/12/2024,chennai,UPI,Delivered
+ORD1854,P012,N/A,06 January 2025,KOLKATA,NET BANKING,Delivered
+,P023,2,28 February 2025,Delhi,upi,Returned
+ORD2083,P031,5,20 January 2025,Ahmedabad,UPI,Delivered
+ORD1779,P021,6,2024-12-15,AHMEDABAD,UPI,Returned
+ORD1529,P017,6,01/07/2025,kolkata,Cash on Delivery,Returned
+ORD2040,P035,4,28/12/2024,Hyderabad,Cash on Delivery,Delivered
+ORD2929,P009,6,2025-01-24,Kolkata,Debit Card,Delivered
+ORD2959,P012,2,18 February 2025,Mumbai,Net Banking,Delivered
+ORD2319,P016,1,19-01-2025,Mumbai,credit card,Delivered
+ORD1417,P035,3,01/13/2025,Delhi,CREDIT CARD,Delivered
+ORD1051,P005,8,2025-02-01,Delhi,UPI,Delivered
+,P003,8,18-02-2025,Mumbai,NET BANKING,Delivered
+ORD1692,P001,3,23-Jan-25,Bengaluru,credit card,Delivered
+ORD2039,P026,,02-Dec-24,pune,UPI,Delivered
+ORD1607,P028,2,03-02-2025,Mumbai,CREDIT CARD,Delivered
+ORD1431,P031,9,2024-12-06,kolkata,upi,Delivered
+ORD2181,P028,3,2025-02-02,Bengaluru,Credit_Card,Delivered
+,P011,3,04-Dec-24,Bengaluru,Debit Card,Delivered
+ORD2735,P026,9,2025-01-17, Mumbai,UPI,Delivered
+,P019,10,Dec 16 2024,Delhi,cash on delivery,Cancelled
+ORD1934,P036,6,28-12-2024,Bangalore,UPI,Cancelled
+ORD2158,P-015,8,16-02-2025,Delhi,U.P.I,Delivered
+ORD2049,P009,5,18 January 2025,Kolkata,UPI,Delivered
+ORD1307,P017,7,2025-01-31,Ahmedabad,credit card,Delivered
+ORD1945,P002,6,01/14/2025,Ahmedabad,Credit Card,Delivered
+ORD1700,P006,none,02/03/2025,Pune,COD,Cancelled
+ORD1857,P013,3,Dec 13 2024,Kolkata,upi,Delivered
+ORD1720,P004,5,2024-12-17,Delhi,Net Banking,Cancelled
+,P022 ,8,09-Jan-25,HYDERABAD,NetBanking,Cancelled
+ORD2811,P011,1,02/02/2025,Ahmedabad,Net Banking,Returned
+ORD1921,P016,3,15-Dec-24,Delhi,NET BANKING,Cancelled
+ORD1629,P027,4,21 December 2024,Pune,Cash on Delivery,Cancelled
+ORD2396,P034,10,12/01/2024,Kolkata ,U.P.I,Returned
+N/A,P001,,08-Dec-24,Kolkata,Net Banking,Delivered
+ORD2180,P011,1,2024-12-06,Delhi,Cash on Delivery,Delivered
+ORD1992,P101,8,12/08/2024,Kolkata,UPI,Cancelled
+ORD1105,P039,10,30/01/2025,Hyderabad,Debit Card,Cancelled
+ORD1221,P033,8,Dec 12 2024,Pune,UPI,Delivered
+ORD1216,P003,3,02/11/2025,Mumbai ,Cash on Delivery,Cancelled
+ORD2993,P006,2,02/03/2025,Pune,UPI,Delivered
+ORD1847,P008,3,2025-01-03,Mumbai ,upi,Delivered
+ORD1978,P023,3,Jan 10 2025,ahmedabad,Cash on Delivery,Delivered
+ORD1613,P015,9,11 December 2024,Chennai,NetBanking,Delivered
+ORD2188,P035,10,05 December 2024,Hyderabad ,Net Banking,Delivered
+ORD1738,p020,6,31-12-2024,Ahmedabad,Cash on Delivery,Returned
+ORD2196, P006,6,11 December 2024,PUNE,Credit Card,Delivered
+,P004,6,01/09/2025,KOLKATA,UPI,Delivered
+ORD2688,P100,1,23 December 2024,Chennai,Cash_on_Delivery,Delivered
+ORD2791,P020,3,Dec 29 2024,MUMBAI,Debit Card,Delivered
+ORD1991,P019,6,06-Jan-25,HYDERABAD,cash on delivery,Delivered
+ORD1333,P023,2,13 January 2025,Kolkata,Net_Banking,Delivered
+ORD1593,P040 ,7,12/17/2024,Kolkata,CASH ON DELIVERY,Cancelled
+ORD2964,p033,2,07-01-2025,Mumbai,CashonDelivery,Delivered
+ORD1041,p030,2,2025-01-18,Chennai,Cash on Delivery,Delivered
+ORD2836,P008,10,2024-12-07,Delhi,Debit Card,Delivered
+ORD1706,P037,2,20-01-2025,Kolkata,Credit Card,Delivered
+ORD1190,P011,8,05-01-2025,Hyderabad,Net Banking,Delivered
+ORD2109,P006,0,10/02/2025,Hyderabad,upi,Delivered
+ORD1240,P011,9,20/01/2025,Mumbai,NET BANKING,Delivered
+,P017,2,28-02-2025,DELHI,Cash on Delivery,Delivered
+ORD1899,P020,2,07-Jan-25,Mumbai,Credit Card,Cancelled
+ORD2404,P-023,1,14/01/2025,Pune,Credit Card,Returned
+ORD2202,P011 ,7,2024-12-12,Mumbai,Debit Card,Delivered
+ORD1089,P030 ,3,01/13/2025,Pune,U.P.I,Delivered
+ORD2093,P008,-2,10/01/2025,hyderabad,Cash on Delivery,Delivered
+ORD1576,P026,-2,2025-01-29,hyderabad,credit card,Delivered
+ORD2112,P018,5,15/12/2024,kolkata,net banking,Delivered
+ORD2980,P019,7,05-02-2025,Kolkata,Net Banking,Cancelled
+ORD1001,p023,2,04/12/2024,CHENNAI,Credit Card,Delivered
+ORD1239,P025,1,Feb 08 2025,Kolkata,NET BANKING,Delivered
+ORD2946,P-011,2,26 January 2025,pune,credit card,Delivered
+ORD2711,P015,9,Jan 11 2025,ahmedabad,Net Banking,Cancelled
+ORD2024,P037,3,Feb 19 2025,bengaluru,Net Banking,Delivered
+ORD2720,P020,8,Feb 13 2025,KOLKATA,cash on delivery,Delivered
+ORD2712,P008,6,2024-12-13,Bangalore,Credit Card,Delivered
+ORD1861,P001,6,11/01/2025,Chennai,UPI,Delivered
+ORD2189,P019,8,02/19/2025,Delhi,U.P.I,Delivered
+N/A,P024,3,Dec 11 2024,Mumbai,UPI,Returned
+ORD1363,P030,8,17/12/2024,bengaluru,Cash on Delivery,Delivered
+ORD1463, P018,8,01/08/2025,Chennai,Cash on Delivery,Delivered
+ORD1467,P036,,26 February 2025, Chennai,Debit Card,Cancelled
+ORD2571,P028,5,21-Feb-25,Hyderabad,UPI,Delivered
+ORD2880,P005,9999,16-01-2025,Pune,CASH ON DELIVERY,Delivered
+ORD1968,P002,1,2025-02-26,Delhi,cash on delivery,Delivered
+ORD2937,P035,3,Dec 31 2024,Pune,CASH ON DELIVERY,Delivered
+ORD1164,P023,1,2024-12-08,MUMBAI,UPI,Returned
+ORD1478,P004,6,Dec 22 2024, Delhi,Debit Card,Returned
+,P004,-2,2025-02-09,Mumbai ,UPI,Delivered
+ORD1932,p022,10,24/02/2025,Calcutta,UPI,Cancelled
+ORD2203,P029,9,01-12-2024,Chennai,Debit Card,Delivered
+ORD2344,P023,3,2024-12-29,Bengaluru,U.P.I,Cancelled
+ORD1665, P026,2,02/24/2025,kolkata,credit card,Delivered
+ORD1636,P014,6,02/23/2025, Bengaluru,UPI,Delivered
+ORD1460,P036,7,16-Jan-25,Kolkata,CREDIT CARD,Cancelled
+ORD2698,P010,9,Feb 26 2025,Bengaluru,Credit Card,Delivered
+ORD1795,p027,3,28/12/2024,Kolkata,Net Banking,Delivered
+ORD1020,P024,6,11-Feb-25,Pune,debit card,Delivered
+ORD1125,P024,1,16 February 2025,Pune,Net Banking,Delivered
+ORD1893,P030,6,22-12-2024,BENGALURU,Net_Banking,Cancelled
+ORD2367,P024,8,28-12-2024,Hyderabad,Credit Card,Delivered
+ORD2985,P037,2,Jan 24 2025,Ahmedabad,DebitCard,Cancelled
+ORD1937,P023,4,10-Jan-25,AHMEDABAD,CREDIT CARD,Cancelled
+,P023 ,9,02/06/2025, Ahmedabad,CreditCard,Cancelled
+ORD1929,P036,2,27-Feb-25,Ahmedabad,Debit Card,Delivered
+ORD2142,P020,5,10/02/2025,Mumbai,DC,Cancelled
+ORD1237,P022 ,5,12/26/2024, Delhi,UPI,Delivered
+ORD1531,P-033,2,03-02-2025,Mumbai,UPI,Delivered
+ORD2602,P016,2,Dec 28 2024,Mumbai,Cash on Delivery,Delivered
+ORD1789,P001,8,09-Jan-25,Pune,Debit Card,Returned
+ORD1918,P007,4,12/24/2024,Mumbai,Credit Card,Cancelled
+ORD1490,P-019,9,Feb 24 2025, Bengaluru,UPI,Cancelled
+ORD1428,P012,2,08-01-2025,Kolkata,UPI,Cancelled
+ORD1657,P016,3,2024-12-22,Hyderabad ,Credit Card,Delivered
+ORD2210, P006,2,01/17/2025,chennai,Credit Card,Returned
+ORD2138,p006,none,01/06/2025, Mumbai,DEBIT CARD,Delivered
+ORD2293,P037,1,22/02/2025,HYDERABAD,UPI,Delivered
+ORD2300,P001,6,Dec 12 2024,bengaluru,Cash on Delivery,Returned
+ORD2473,P011,1,2024-12-16,hyderabad,CashonDelivery,Delivered
+ORD2108,P003 ,2,12-01-2025,Chennai,upi,Delivered
+ORD1519,P003,8,Jan 29 2025, Kolkata,upi,Returned
+ORD1804,p020,6,02/04/2025,KOLKATA,Debit Card,Delivered
+ORD1191,P013,7,Dec 06 2024, Ahmedabad,Net Banking,Delivered
+ORD1676,P012,,01-03-2025,CHENNAI,Credit Card,Delivered
+ORD1010,P036,,08-01-2025,Hyderabad,credit card,Delivered
+ORD2722,P001,2,2024-12-21,BENGALURU,UPI,Delivered
+,P022,5,12 January 2025, Hyderabad,Credit Card,Returned
+ORD1266,P036,5,21-02-2025,Hyderabad,CashonDelivery,Returned
+ORD1151,P038,3,Dec 05 2024,Chennai,Cash on Delivery,Delivered
+ORD1622,P003,-2,11-12-2024,Kolkata,upi,Delivered
+ORD2616,P029,9,12/04/2024, Mumbai,cash on delivery,Delivered
+ORD1117,P023 ,10,16-01-2025,Bangalore,UPI,Delivered
+ORD1926,P039,7,01/01/2025,Kolkata,credit card,Cancelled
+ORD2025,P004,1,03-Feb-25,Mumbai ,net banking,Delivered
+ORD1842,P026,9,Jan 22 2025,bengaluru,UPI,Delivered
+ORD1127,P035,6,10/01/2025,pune,Cash_on_Delivery,Delivered
+ORD1067,P023,5,01-Feb-25,mumbai,NET BANKING,Delivered
+ORD2466,p023,9,12 February 2025,Pune,Net Banking,Delivered
+ORD1055,P016,10,26-02-2025,Hyderabad,debit card,Cancelled
+ORD1112,P024,9,Dec 14 2024,Pune,Credit Card,Delivered
+ORD2797,P011,2,2025-01-14, Hyderabad,CC,Cancelled
+ORD2417,p016,3,02 February 2025,ahmedabad,Debit Card,Cancelled
+ORD2963,P040,2,07-01-2025,KOLKATA,UPI,Delivered
+ORD2515,p039,4,22-Jan-25,Chennai,credit card,Returned
+ORD1930,P039,5,01/23/2025,Mumbai,UPI,Returned
+ORD2235,P100,2,12/29/2024,Chennai,UPI,Delivered
+ORD1695,P033,7,2025-02-10,delhi,COD,Delivered
+ORD1452,P018,9999,27/12/2024,mumbai,Debit Card,Delivered
+ORD1025,P005,4,09 January 2025,Pune,UPI,Returned
+ORD2883,P033,7,27-Jan-25,Hyderabad,CREDIT CARD,Delivered
+ORD2160,P101,9,06-Dec-24,Delhi,Credit Card,Delivered
+ORD1988,P003,4,12-Dec-24,DELHI,UPI,Delivered
+ORD2194,P010,5,08-02-2025,Bengaluru,Debit Card,Returned
+ORD2822,P009,2,12/12/2024,mumbai,credit card,Returned
+ORD2773,P002,1,07-01-2025,chennai,UPI,Returned
+ORD1753,P099,5,2024-12-21,Chennai,Cash on Delivery,Delivered
+ORD1677,P006,5,03-12-2024,DELHI,Cash on Delivery,Returned
+ORD2485,P016,5,15 January 2025,hyderabad,Credit Card,Delivered
+ORD1178, P008,10,01/18/2025,Chennai,Cash on Delivery,Delivered
+ORD1388,P040,6,Jan 31 2025,Chennai,Cash on Delivery,Cancelled
+ORD1501,P028,-2,09/02/2025,Pune,CashonDelivery,Cancelled
+ORD1269,P004,3,02/14/2025,Ahmedabad,net banking,Cancelled
+ORD1309, P006,3,22 January 2025,Bengaluru,NET BANKING,Returned
+ORD2748,P037,6,01/20/2025,Kolkata,Debit Card,Cancelled
+ORD2829,P-033,1,Dec 01 2024,Ahmedabad,Credit Card,Returned
+ORD1624,P013,7,Jan 13 2025,Pune,Credit Card,Returned
+ORD1167,P008,2,28 February 2025,Hyderabad,Debit Card,Cancelled
+ORD1334,P016,1,16/01/2025,AHMEDABAD,cash on delivery,Delivered
+ORD1054,P003,-,31-12-2024,Bengaluru,Net Banking,Delivered
+ORD1251,P025,9,18-02-2025, Kolkata,net banking,Delivered
+ORD1707,P039,10,19/12/2024,hyderabad,Debit Card,Delivered
+ORD2446,P002,7,28-12-2024,Bombay,debit card,Cancelled
+ORD2778,p012,9,01/26/2025,Bengaluru,Credit Card,Cancelled
+,P001,10,Feb 24 2025,CHENNAI,Credit Card,Cancelled
+ORD2516,P026,,12/14/2024,Delhi,COD,Returned
+ORD2604,P021,10,27-12-2024,Chennai,Credit Card,Cancelled
+ORD1520,P003,2,06-Dec-24,Delhi,net banking,Delivered
+ORD2676,P002,7,02-02-2025,Chennai,upi,Cancelled
+,P011,4,19-Dec-24,hyderabad,Credit Card,Returned
+ORD1984,P039,7,Feb 18 2025,Mumbai ,Net Banking,Delivered
+ORD1173,P010,2,2025-01-18,BENGALURU,Cash on Delivery,Delivered
+ORD1669,P035,10,2025-01-12,pune,Debit Card,Cancelled
+ORD1491,P033,8,25-01-2025,Mumbai,Net Banking,Delivered
+ORD1919,P015,8,28/12/2024, Ahmedabad,Net Banking,Delivered
+ORD1067,P023,5,01-Feb-25,mumbai,NET BANKING,Delivered
+ORD1837,p007,6,02/14/2025,Chennai,debit card,Delivered
+,P027,7,26-Feb-25,CHENNAI,Debit Card,Delivered
+ORD2730,P036,3,2025-02-20, Pune,debit card,Delivered
+ORD2309, P015,-,2024-12-06,Pune,Credit Card,Returned
+ORD2273, P015,7,2025-01-01,pune,Debit Card,Cancelled
+ORD2398,P099,2,12/24/2024,Chennai,COD,Delivered
+ORD1394,P029,2,01-03-2025,PUNE,U.P.I,Delivered
+ORD1611,P021,8,27-12-2024,Hyderabad,Net Banking,Delivered
+ORD2032,p017,8,11-Jan-25,chennai,Net Banking,Cancelled
+ORD2547,p013,1,Jan 05 2025,kolkata,COD,Delivered
+ORD2117,P016,,27/02/2025,Chennai,COD,Returned
+ORD2863,P037,5,Feb 04 2025,Hyderabad,Debit Card,Delivered
+ORD1408,P021,4,Jan 15 2025,Delhi,Debit Card,Returned
+ORD1475,P014 ,6,28 December 2024,Hyderabad,cash on delivery,Delivered
+ORD2236, P031,6,2025-02-18,delhi,Debit Card,Delivered
+ORD2826,P015,8,Dec 19 2024,Delhi,Cash on Delivery,Returned
+ORD2615,P019,9,09-Dec-24, Ahmedabad,Credit Card,Delivered
+ORD2054,P008,5,Feb 17 2025,Bengaluru,CREDIT CARD,Returned
+ORD1566,p015,6,Jan 27 2025,Pune,UPI,Delivered
+ORD1752,P034,6,16/12/2024,Kolkata,Cash_on_Delivery,Delivered
+ORD1933,P036,8,01/23/2025,Kolkata,UPI,Delivered
+ORD2045,P034,8,14-02-2025,Bengaluru,Cash on Delivery,Delivered
+ORD2760,P027,0,10-12-2024,Kolkata,Cash on Delivery,Cancelled
+,P023,3,Jan 08 2025,kolkata,Credit Card,Cancelled
+ORD2774,P016,7,2024-12-14,Mumbai,UPI,Returned
+ORD2171,p022,3,Jan 09 2025,Chennai,U.P.I,Returned
+ORD1868,P009,6,Dec 05 2024,Delhi,cash on delivery,Delivered
+ORD1232,P028,4,Jan 12 2025,Ahmedabad,UPI,Delivered
+ORD2772,P035,7,24-Dec-24,ahmedabad,upi,Delivered
+ORD1288,P012,-2,01/16/2025,Chennai ,CREDIT CARD,Returned
+ORD1008,P002,7,15 December 2024,Bengaluru,credit card,Cancelled
+ORD2872,P026,4,02/06/2025,Pune,Cash on Delivery,Delivered
+ORD1352,P003,10,12/02/2025,Kolkata,Cash on Delivery,Delivered
+ORD1699,P022,8,12/05/2024,Chennai,Credit Card,Delivered
+ORD1284,P001,8,02 January 2025,Hyderabad,NET BANKING,Returned
+ORD2493,P001,1,2025-01-29,Ahmedabad,NET BANKING,Delivered
+,P020,3,02/19/2025,Delhi ,Net Banking,Cancelled
+ORD2306,P034,9,Jan 30 2025,Bengaluru,Net Banking,Delivered
+ORD1510,P015,3,01/03/2025,Chennai,Net Banking,Delivered
+ORD2226,P006 ,8,12/27/2024,bengaluru,upi,Returned
+ORD1138,P011,9,14-01-2025,chennai,Debit Card,Delivered
+ORD1506,P008,3,06 January 2025,Hyderabad,Cash on Delivery,Delivered
+ORD1681,P006,2,19-Feb-25,Mumbai,UPI,Returned
+ORD1242,P014,1,20/01/2025,Pune,Debit Card,Delivered
+ORD1359,P009,4,01/08/2025,Delhi,Net Banking,Delivered
+ORD1568,P008,4,13 January 2025,mumbai,Debit Card,Delivered
+ORD1947,p025,6,10/01/2025,Mumbai,NET BANKING,Delivered
+ORD2793,P014,3,27/12/2024,Ahmedabad,UPI,Delivered
+ORD1952,P003,3,26-Feb-25,Bengaluru,Net Banking,Delivered
+ORD1802,P036,8,19 February 2025,ahmedabad,Cash on Delivery,Delivered
+ORD2187,P039,5,15/02/2025,mumbai,Net Banking,Delivered
+ORD1292,P006,5,2025-01-02,Delhi,Net Banking,Returned
+ORD2116,P011,5,Jan 22 2025,Delhi ,Debit Card,Delivered
+ORD1814,P-015,4,17 December 2024,Ahmedabad,Cash_on_Delivery,Cancelled
+ORD2804,P015,3,15 February 2025,KOLKATA,Cash on Delivery,Cancelled
+ORD2958,P036,6,01/23/2025,pune,Net Banking,Returned
+ORD2176,P037,9,2024-12-21,Delhi,Debit Card,Delivered
+ORD2145,P003,7,06/12/2024,Kolkata,DEBIT CARD,Returned
+ORD1766,P007,3,01-03-2025,Kolkata,Net Banking,Delivered
+ORD2511,P019,4,12-Feb-25,CHENNAI,Credit Card,Returned
+ORD1142,P002,1,23-12-2024,Kolkata,credit card,Returned
+ORD2672,P-037,N/A,01/11/2025,Kolkata,Net Banking,Cancelled
+ORD1253,P025,7,04-12-2024,Ahmedabad,DEBIT CARD,Delivered
+ORD1109,P009,4,2024-12-20,Kolkata,UPI,Cancelled
+ORD2399,P033,6,2024-12-04,MUMBAI,Net Banking,Cancelled
+ORD1923,P032,3,16-Jan-25,Hyderabad,Net Banking,Delivered
+ORD2221,P009,8,02/09/2025,Ahmedabad,Net Banking,Returned
+ORD2445,P021,,Feb 18 2025,Ahmedabad,Debit Card,Returned
+ORD1235,P-017,7,12/04/2024,Kolkata,Credit Card,Cancelled
+ORD2771,P008,6,08-Dec-24,Mumbai,Debit Card,Delivered
+,P026,4,2024-12-29,Delhi,CC,Delivered
+ORD1268,P015,8,2025-01-28,Chennai,Cash on Delivery,Cancelled
+,P021,7,05/12/2024,Pune,Credit Card,Returned
+ORD1470,P020 ,2,13/01/2025,Bengaluru,Debit Card,Delivered
+ORD1032,P031,4,16-02-2025,Pune,Cash on Delivery,Delivered
+ORD2322,P002,8,01/06/2025,Mumbai,Cash on Delivery,Delivered
+ORD2865,P-036,7,07/01/2025,Hyderabad,Credit Card,Cancelled
+ORD2454,P023,5,02/20/2025,Ahmedabad ,CashonDelivery,Delivered
+ORD2474,P036,2,08-Jan-25,Hyderabad,Cash on Delivery,Delivered
+,p028,7,05 February 2025,Delhi,U.P.I,Cancelled
+ORD1068,P011,5,04/12/2024,MUMBAI,debit card,Cancelled
+ORD2166,P038,7,22/01/2025,Mumbai,NetBanking,Delivered
+ORD1513,P022,N/A,12/01/2024,Bengaluru,cash on delivery,Returned
+ORD2567,P006,4,10/12/2024,Pune,DebitCard,Returned
+ORD1042,P029,4,01-Jan-25,Hyderabad,UPI,Cancelled
+ORD2397,P003,5,2024-12-29,Pune,UPI,Returned
+ORD2248,p039,2,24/02/2025,Chennai,Net Banking,Delivered
+ORD2841,p005,3,01-Dec-24,mumbai,upi,Cancelled
+ORD2542,P002,7,04/12/2024,mumbai,Debit Card,Returned
+ORD2403,P009,0,29-Jan-25,Ahmedabad,UPI,Cancelled
+ORD2471,P003,1,23/02/2025,pune,Net Banking,Delivered
+ORD1662,P002,5,24-Feb-25,Hyderabad,Cash on Delivery,Returned
+ORD2934,P003,3,Feb 01 2025,Chennai,DebitCard,Delivered
+ORD1822,P019,9999,18-Jan-25,MUMBAI,COD,Cancelled
+ORD1171,P027,4,03-Feb-25,Pune ,UPI,Delivered
+ORD2256,P002,none,15 January 2025,Hyderabad,UPI,Delivered
+ORD2206,P039,none,16-Dec-24,Delhi ,Cash on Delivery,Returned
+ORD1224,P012,4,04-01-2025,Bengaluru,UPI,Delivered
+ORD1612,P007,3,31-Jan-25,Delhi,Debit Card,Delivered
+ORD1957,P011,4,02/26/2025,Mumbai ,net banking,Returned
+ORD1880,P018,8,01/01/2025,chennai,Debit_Card,Delivered
+ORD2260,P039,9,29/12/2024,Chennai,Net Banking,Delivered
+ORD1526,P011,7,20-01-2025,mumbai,DC,Delivered
+ORD2972,p036,9,21-Feb-25,MUMBAI,credit card,Returned
+ORD1673,p016,7,2025-02-04,Kolkata,Net Banking,Cancelled
+ORD2341,P039,1,16/01/2025,HYDERABAD,upi,Cancelled
+ORD1610,P022,1,18/01/2025,pune,CREDIT CARD,Delivered
+ORD1793,P034,5,02/26/2025,Calcutta,UPI,Cancelled
+ORD1332,P024,9,12/23/2024,Chennai,Debit Card,Delivered
+ORD2375,p008,6,02/10/2025,chennai,UPI,Cancelled
+ORD1464,P036,4,23-01-2025,Bengaluru,Cash on Delivery,Returned
+ORD1092,P040,4,Dec 08 2024,MUMBAI,CC,Delivered
+ORD1456,P013,9,Jan 17 2025,Ahmedabad,NET BANKING,Returned
+ORD2904,P023,3,Feb 18 2025,Bombay,Debit Card,Delivered
+ORD2776,P011,3,07-02-2025,chennai,Cash on Delivery,Delivered
+ORD2027,P026,8,25-Dec-24,MUMBAI,Net Banking,Cancelled
+ORD1211,P006,7,12/05/2024,Kolkata,CREDIT CARD,Delivered
+ORD1614,P027,9,12/26/2024,Bangalore,Credit Card,Delivered
+ORD2346,P003,9,Dec 26 2024,Delhi,Cash on Delivery,Delivered
+,P014,7,12-Jan-25,Bengaluru,NET BANKING,Delivered
+ORD2779,P039,9999,10-02-2025,mumbai,Net_Banking,Cancelled
+ORD2622,P026,0,24/01/2025,Chennai,Net Banking,Cancelled
+ORD2058,P026,6,27-01-2025,Mumbai ,Cash_on_Delivery,Delivered
+ORD2073,P028,none,20-02-2025,chennai,credit card,Delivered
+ORD2118,P040,6,02/09/2025,Bengaluru,upi,Delivered
+ORD1578,P009,2,26/12/2024,Mumbai ,CREDIT CARD,Returned
+ORD2945,P033,7,Dec 04 2024,Hyderabad,COD,Delivered
+ORD1302,P019,4,Dec 12 2024,KOLKATA,Debit Card,Delivered
+ORD2022,P021,10,19-Dec-24,Pune,Debit Card,Delivered
+ORD1193,P002,6,01/14/2025,Chennai,net banking,Delivered
+ORD1380,P003,9,02/03/2025,Delhi,Credit Card,Cancelled
+ORD1853,P013,7,30-Jan-25,Kolkata,CC,Returned
+ORD2304,P037 ,1,14-Dec-24,Pune,Debit Card,Delivered
+ORD1135,P033,2,01 January 2025,Mumbai,Net Banking,Returned
+ORD2412,P013 ,6,Feb 14 2025,Chennai,Debit Card,Delivered
+ORD2619,p023,8,12/24/2024,chennai,DEBIT CARD,Returned
+ORD2340,P-005,5,20 December 2024,Mumbai,debit card,Delivered
+ORD1863,P006,2,02/20/2025, Delhi,Cash on Delivery,Delivered
+ORD2611,p039,5,01/04/2025,Hyderabad,net banking,Returned
+ORD1006,P034,7,12/08/2024,Hyderabad,UPI,Returned
+ORD1765,P001,6,08-01-2025,Mumbai,Net Banking,Delivered
+ORD2828,P008,1,10/01/2025,delhi,Debit Card,Returned
+ORD2517,p036,1,08/12/2024,Ahmedabad,net banking,Delivered
+ORD2675,P032,-,Jan 12 2025,Pune,Credit_Card,Cancelled
+ORD1773,p014,9999,10-Dec-24,Delhi,Credit Card,Cancelled
+ORD2975,P-018,10,02/04/2025,ahmedabad,Cash on Delivery,Delivered
+ORD2589,P-007,3,Jan 24 2025,delhi,Cash on Delivery,Returned
+ORD2766,P035,2,Jan 08 2025,Pune,Credit Card,Returned
+ORD2114,P007,6,19-Dec-24,Bengaluru,UPI,Returned
+ORD1223,P014,9,Jan 23 2025,Hyderabad ,Net Banking,Delivered
+ORD1892,P031,6,12/30/2024,HYDERABAD,DEBIT CARD,Delivered
+ORD1990,P036,2,12-Feb-25,Hyderabad,UPI,Cancelled
+ORD2879,P011,4,12/20/2024,MUMBAI,CREDIT CARD,Delivered
+ORD2355,P039,3,09 December 2024,Kolkata ,Credit Card,Returned
+ORD1864,P036,5,25 January 2025,Delhi,Credit Card,Delivered
+ORD1022,P011 ,2,22-02-2025, Mumbai,NET BANKING,Delivered
+ORD2908,P026,7,15/12/2024,Hyderabad,UPI,Delivered
+ORD2500,P020,2,2024-12-15,KOLKATA,UPI,Delivered
+ORD1095,P014,3,09-01-2025,Pune,Credit Card,Delivered
+ORD1989, P022,,24/12/2024,Ahmedabad,Debit_Card,Cancelled
+ORD1960,P036,6,2024-12-15,CHENNAI,UPI,Returned
+ORD1597,P010,4,19-Feb-25,chennai,UPI,Cancelled
+ORD1809,P006,9,2025-01-12,Chennai,Cash on Delivery,Cancelled
+ORD2593,P021,3,Dec 23 2024,CHENNAI,Credit_Card,Delivered
+ORD1987,P001,8,13/01/2025,DELHI,Credit Card,Delivered
+ORD2041,P006,2,09/12/2024,Ahmedabad,Net Banking,Returned
+ORD2978,P009,2,Dec 22 2024,chennai,DEBIT CARD,Delivered
+ORD1401,P003 ,8,28-02-2025,Ahmedabad,UPI,Delivered
+ORD1024,P006 ,-,26-01-2025,Kolkata,net banking,Delivered
+ORD1798,P024 ,4,Feb 16 2025,Hyderabad,Cash on Delivery,Cancelled
+ORD1425,P023,7,2024-12-23,ahmedabad,UPI,Delivered
+ORD2110,P028,9,26/02/2025,hyderabad,CASH ON DELIVERY,Delivered
+ORD1347,P003 ,3,18-Feb-25,Pune,UPI,Delivered
+ORD1908,P019,2,13/02/2025,Delhi,Credit Card,Cancelled
+ORD1379,P002,5,07/01/2025,Ahmedabad,Cash on Delivery,Returned
+ORD1228,P012,3,12/03/2024,Bangalore,net banking,Cancelled
+ORD2693, P022,3,Feb 15 2025,Ahmedabad,Net Banking,Returned
+ORD1123,P023,1,24/12/2024,Bengaluru ,Cash on Delivery,Delivered
+ORD1547,P033,2,01-Feb-25,Bombay,UPI,Delivered
+ORD1663,p019,1,19-Jan-25,Bengaluru ,UPI,Returned
+ORD1498,P002,7,23-Feb-25,MUMBAI,Credit Card,Delivered
+ORD1407,P025 ,10,25 January 2025,Pune,upi,Delivered
+ORD1500,P002,6,11 December 2024,ahmedabad,Cash on Delivery,Cancelled
+ORD2070,P033,0,2025-02-09,ahmedabad,UPI,Returned
+ORD2356,P023,7,09-Jan-25,Delhi,debit card,Delivered
+ORD1535,P029,9,Jan 16 2025,Hyderabad,Credit Card,Cancelled
+ORD2832,P034,10,27 February 2025,Ahmedabad,cash on delivery,Delivered
+ORD1058,P024,8,05/01/2025,Bengaluru ,Net Banking,Delivered
+ORD1340,P014,9,01/03/2025,Delhi,Cash_on_Delivery,Cancelled
+ORD1276,P-018,4,22-01-2025,delhi,Debit Card,Cancelled
+ORD2374,P031,2,31/01/2025,hyderabad,UPI,Returned
+ORD2682,P028,9,12/21/2024,BENGALURU,CC,Returned
+ORD1533,P033,4,12/06/2024,Delhi,CREDIT CARD,Cancelled
+,P002,9,2025-02-20,Ahmedabad,Cash on Delivery,Delivered
+ORD2018,P023,2,26-02-2025,mumbai,Cash on Delivery,Delivered
+ORD1573,p011,10,2025-02-08,BENGALURU,Credit Card,Delivered
+ORD2759,P008,4,24 February 2025,Kolkata,Cash_on_Delivery,Cancelled
+ORD2100,P006,9,Jan 13 2025,Bengaluru,Net Banking,Returned
+ORD1205,P017,5,12/10/2024,Mumbai,Net Banking,Delivered
+ORD2881,p003,-,03/01/2025,Hyderabad,Debit Card,Delivered
+ORD1617, P006,10,02/16/2025,Ahmedabad,CC,Delivered
+ORD2051,P004,,07-02-2025,Chennai,Credit Card,Cancelled
+ORD2751,P020,10,07-01-2025,Ahmedabad,Net Banking,Cancelled
+ORD2480,P-099,4,24-Feb-25,mumbai,Credit Card,Delivered
+,P002,2,12/25/2024,Chennai,Cash on Delivery,Delivered
+ORD2942,P025,4,Dec 12 2024,AHMEDABAD,UPI,Delivered
+ORD2970,p013,1,17-Dec-24, Bengaluru,NetBanking,Cancelled
+ORD2414,P024,4,25-12-2024,Hyderabad,UPI,Cancelled
+ORD1206,P026,2,12/11/2024,Bengaluru,Debit Card,Delivered
+ORD2106,P036 ,5,2025-02-06,DELHI,Debit_Card,Delivered
+ORD2318,P036,,13-12-2024,Delhi,UPI,Delivered
+ORD2328,P011,7,13/02/2025,PUNE,CreditCard,Delivered
+ORD1119,P019,8,10/02/2025,Delhi,Debit Card,Cancelled
+ORD1423,P024,8,12/24/2024,Delhi,Credit Card,Delivered
+ORD2890,P013,4,31-Dec-24,Bengaluru,UPI,Cancelled
+ORD1296, P024,10,04-Feb-25,Bengaluru,Credit Card,Delivered
+ORD1693,P004,9,12/08/2024,Mumbai,Net Banking,Cancelled
+ORD2408,P006,9,03/01/2025,Mumbai ,Cash on Delivery,Delivered
+,P034,4,03-Dec-24,Delhi,UPI,Cancelled
+ORD2047,P-036,6,2024-12-18,Chennai,Credit Card,Cancelled
+ORD1385,P013 ,5,19-12-2024,Mumbai,Net Banking,Returned
+ORD1922,P033,4,04 February 2025,Hyderabad,Credit Card,Returned
+ORD1783,P037,-,05/02/2025,Hyderabad,Debit Card,Cancelled
+ORD2842,P001,8,01/13/2025,Chennai,Credit Card,Returned
+ORD2843,p012,4,23 January 2025,Hyderabad,Cash on Delivery,Delivered
+ORD2770,P011,10,09 December 2024,Ahmedabad,Net Banking,Delivered
+ORD2426,P002,4,06 January 2025,Bengaluru,Net Banking,Delivered
+ORD2566,P015,1,02-Feb-25,Pune,Cash on Delivery,Returned
+ORD2364,P017,3,26-02-2025,BENGALURU,Credit Card,Delivered
+ORD2091,P028,9,03-Feb-25,chennai,Net Banking,Delivered
+ORD2409,P002,10,20 December 2024,Pune,net banking,Delivered
+ORD2583, P032,5,02/20/2025,kolkata,Credit Card,Cancelled
+ORD2633,P038,7,14-Dec-24,chennai,Net Banking,Returned
+ORD1200,P003,6,01/19/2025,delhi,UPI,Delivered
+ORD2067,P040,0,Jan 08 2025,Delhi,Net Banking,Returned
+ORD2887,P006,1,10/01/2025, Kolkata,Cash on Delivery,Cancelled
+ORD1157, P038,7,24/02/2025,Kolkata ,Net Banking,Delivered
+ORD1587,P011,1,14/01/2025,Kolkata,CASH ON DELIVERY,Returned
+ORD1574,p021,4,12/07/2024,Kolkata,Debit Card,Delivered
+ORD1650,P012,2,04/01/2025,Bengaluru,Credit Card,Delivered
+ORD2678,P-038,6,10 December 2024,Chennai,Net Banking,Delivered
+ORD2406,p033,3,12/03/2024,Delhi,Cash on Delivery,Cancelled
+ORD1768,P022,3,13/02/2025,Kolkata,UPI,Delivered
+ORD1371,P008,7,13 January 2025,KOLKATA,Credit Card,Delivered
+ORD2846,P014,2,07-Feb-25,Mumbai,NetBanking,Cancelled
+ORD2434,P019,10,12/29/2024,pune,Credit Card,Delivered
+ORD1763,P035,1,17 February 2025,DELHI,Cash on Delivery,Delivered
+ORD2731,P008,6,09-02-2025,Pune,UPI,Returned
+ORD1559,P024 ,10,2025-01-11,Pune,Credit Card,Delivered
+ORD2710,P021,9,2024-12-30,HYDERABAD,DebitCard,Returned
+ORD2289,P002,3,12/12/2024,KOLKATA,Debit Card,Delivered
+ORD2738,P006,3,12/26/2024,Mumbai,Cash on Delivery,Delivered
+ORD1925,P003,10,01/03/2025,Chennai,Credit Card,Returned
+ORD1653,P039,8,Mar 01 2025,Hyderabad,Net Banking,Delivered
+ORD2554,P012,6,27 January 2025,Kolkata,Debit Card,Cancelled
+ORD2915,P030,5,02/18/2025,mumbai,Net Banking,Delivered
+ORD1808,P016 ,3,25-Jan-25,AHMEDABAD,debit card,Delivered
+ORD1627,P015,4,2025-01-30,delhi,Cash on Delivery,Delivered
+ORD2268,P005,8,2024-12-18,bengaluru,upi,Returned
+ORD2763,P009,2,20 December 2024,mumbai,Credit Card,Delivered
+ORD1683,P-015,7,12/01/2024,Hyderabad,upi,Delivered
+ORD1301,P036,9,02/09/2025,Chennai,net banking,Returned
+ORD2651,P005,2,20 February 2025, Hyderabad,UPI,Delivered
+ORD2808,P006,1,12 February 2025,Chennai,DC,Returned
+ORD2120,P039,9,12/01/2024,Bengaluru,UPI,Delivered
+ORD2315,P040,3,08-Jan-25, Hyderabad,Net Banking,Delivered
+ORD2618,P008,3,16/12/2024,Ahmedabad ,UPI,Cancelled
+ORD2853,P033,10,Feb 11 2025, Delhi,Credit Card,Delivered
+ORD2200,P-013,8,20 January 2025,Chennai,UPI,Delivered
+ORD1222,P008,3,24 December 2024,Chennai,debit card,Delivered
+ORD1170,P027,4,01/20/2025,delhi,Debit Card,Delivered
+ORD1774,P009,3,01 March 2025,Pune ,UPI,Returned
+ORD2649,P015,7,2024-12-24,Delhi ,UPI,Delivered
+ORD1326,P040,10,04-02-2025,Madras,Cash on Delivery,Delivered
+ORD1661, P101,none,Feb 23 2025,Ahmedabad,CreditCard,Delivered
+ORD2740,P022,7,19-Dec-24,mumbai,upi,Returned
+ORD2347,P036,2,19-Jan-25,Hyderabad,Cash_on_Delivery,Returned
+ORD2284,P008,-,08-Feb-25,Bengaluru,Debit Card,Cancelled
+ORD1541,P029,1,12/16/2024,Ahmedabad,Debit Card,Delivered
+ORD1155,P035,4,08-12-2024,BENGALURU,Net Banking,Returned
+ORD1341,P007,0,2024-12-09,Bengaluru,credit card,Delivered
+ORD2644,P028,9,12/06/2024,Hyderabad,Net Banking,Delivered
+ORD2632,P026,3,Jan 07 2025,Mumbai,Debit Card,Cancelled
+ORD2798,P016,2,2025-01-06,Hyderabad,Cash on Delivery,Delivered
+ORD1264,P011,5,14 December 2024,Ahmedabad,CREDIT CARD,Cancelled
+ORD2377,P002,10,12/12/2024,kolkata,Debit Card,Delivered
+ORD1259,P013,1,Dec 02 2024,Pune,NetBanking,Delivered
+ORD2882,P022,7,Jan 31 2025,Delhi,UPI,Delivered
+ORD1182,P014,8,25/02/2025,Bengaluru ,DebitCard,Returned
+ORD1213,P023,4,2025-01-29,PUNE,NetBanking,Returned
+ORD2195,P-006,5,01 January 2025,Bengaluru,NetBanking,Cancelled
+ORD1879,P029,6,02/13/2025,delhi,Credit Card,Delivered
+, P005,1,03 January 2025,Ahmedabad,UPI,Delivered
+ORD2072,p036,9,Feb 01 2025,Kolkata ,Net Banking,Delivered
+ORD2564,P013,1,07/12/2024,Chennai,NET BANKING,Returned
+ORD2038,P024,2,27/01/2025,pune,net banking,Delivered
+ORD1290,p013,4,04 February 2025,ahmedabad,cash on delivery,Delivered
+ORD1140,P020,,20 February 2025,Hyderabad,UPI,Delivered
+ORD2639,p040,10,01-Dec-24,Ahmedabad,cash on delivery,Delivered
+ORD2595,P014,5,12/18/2024,kolkata,Net Banking,Delivered
+ORD2450,P031 ,10,17/12/2024,Delhi,DEBIT CARD,Returned
+ORD1542,P008,7,08-01-2025,Chennai,net banking,Cancelled
+ORD2211,p005,10,16-02-2025,Bengaluru,UPI,Cancelled
+ORD2659,P020,7,06 January 2025,Chennai,DebitCard,Delivered
+ORD1965,P026,8,09/12/2024,Hyderabad,Cash on Delivery,Cancelled
+ORD2494,P016,none,25 December 2024,Mumbai,cash on delivery,Delivered
+ORD1486,P020,7,Dec 05 2024,Ahmedabad ,cash on delivery,Delivered
+ORD1851,P039,1,18/12/2024,Bengaluru,Debit Card,Cancelled
+ORD2371,P009,5,21/01/2025,ahmedabad,CREDIT CARD,Delivered
+ORD1372,P-036,3,12 January 2025,Ahmedabad,Net Banking,Delivered
+ORD1702,p003,5,Jan 10 2025,Bengaluru,Debit Card,Delivered
+ORD2741,p040,1,30-Dec-24,bengaluru,credit card,Cancelled
+ORD1357,P039,5,27/01/2025,KOLKATA,UPI,Cancelled
+ORD2052,P011,9999,31 December 2024,Hyderabad ,CREDIT CARD,Cancelled
+ORD1052,P003,10,19 February 2025,Mumbai,CREDIT CARD,Delivered
+ORD2928,P034,9,Feb 12 2025,Pune,Credit Card,Returned
+ORD1799,P022,7,06/01/2025,Pune,debit card,Delivered
+ORD1315,P022,2,Mar 01 2025,Kolkata,Credit Card,Returned
+ORD2667, P023,6,11 February 2025,Bengaluru,CREDIT CARD,Delivered
+ORD2149,P009,3,10-Jan-25,delhi,cash on delivery,Cancelled
+ORD2884,P022,6,01-01-2025,kolkata,Net Banking,Returned
+ORD2728,P010,10,Jan 21 2025,Delhi,Debit Card,Delivered
+ORD1895,P039,1,2025-01-15,Bengaluru ,Cash on Delivery,Cancelled
+ORD2288,P022,6,02/14/2025,bengaluru,Net Banking,Delivered
+ORD2586,P001,2,30/12/2024, Delhi,UPI,Cancelled
+ORD1746,P028,2,Feb 27 2025,Hyderabad ,CREDIT CARD,Delivered
+ORD2648,p039,3,29 December 2024,delhi,UPI,Delivered
+ORD1468,P015,4,21-Dec-24,Delhi,Credit Card,Delivered
+ORD2477,P013,7,Dec 15 2024,Delhi,Cash on Delivery,Delivered
+ORD2861,P036,10,Feb 27 2025,Delhi,Debit Card,Delivered
+ORD1935,P013,6,01-Jan-25,Chennai,Cash on Delivery,Cancelled
+ORD1106,P005,9,02/01/2025, Mumbai,Cash on Delivery,Returned
+ORD2361,P032,8,01/03/2025,Chennai,Cash on Delivery,Delivered
+ORD1023,P012,,26-Feb-25,chennai,Net Banking,Delivered
+ORD2368,P026,7,2024-12-29,Pune,Credit Card,Delivered
+ORD2750,P038,5,Dec 26 2024,Hyderabad,DC,Delivered
+ORD2573,p014,8,2025-02-15,Chennai,upi,Delivered
+ORD2858,P023,3,09/12/2024,KOLKATA,UPI,Delivered
+ORD1402,P024,8,11 January 2025,ahmedabad,cash on delivery,Delivered
+ORD1046,P028,2,04-01-2025,pune,Credit Card,Returned
+ORD2066,P039,7,05-Feb-25,pune,net banking,Delivered
+ORD1549,P014,2,08 February 2025,Mumbai,Cash on Delivery,Cancelled
+ORD2423,P009,none,Feb 07 2025,MUMBAI,Cash on Delivery,Delivered
+ORD1129,p018,4,12/12/2024,Kolkata,Net_Banking,Delivered
+ORD2838,P037,9,27 December 2024,Hyderabad,Debit Card,Delivered
+ORD2575, P026,4,18-02-2025,Kolkata ,upi,Delivered
+ORD1905,p024,3,12-Feb-25,pune,NetBanking,Delivered
+ORD1848,P013,6,02/12/2024,Bengaluru,Cash on Delivery,Delivered
+ORD2163,P023,7,02/19/2025,Kolkata,Net Banking,Delivered
+ORD2490,p007,5,12/23/2024,PUNE,UPI,Returned
+ORD2581,p020,8,25/12/2024,Bengaluru,Debit Card,Cancelled
+ORD2459, P008,9,21-Feb-25,BENGALURU,Cash on Delivery,Returned
+ORD1983,P002,7,31-12-2024,Chennai,debit card,Delivered
+ORD2894,P013,10,Jan 16 2025,kolkata,Net Banking,Delivered
+ORD1461,P036,7,23-01-2025,Ahmedabad,Debit Card,Delivered
+ORD2378,P022,0,28/12/2024,Pune,CASH ON DELIVERY,Delivered
+ORD2743,P028,6,02 January 2025,Pune,Cash on Delivery,Cancelled
+ORD1830,P020,10,12/01/2025, Delhi,UPI,Cancelled
+ORD2900,P-039,8,2024-12-01,Mumbai,Debit Card,Delivered
+ORD1465,p100,10,19/02/2025,Ahmedabad,upi,Delivered
+ORD2259,P016,3,20 December 2024,Pune,upi,Delivered
+ORD2825,P013,4,11 January 2025,AHMEDABAD,CREDIT CARD,Delivered
+ORD2301,P021,8,01-12-2024,Pune,Credit Card,Returned
+ORD2009,p007,1,2024-12-21,delhi,Debit Card,Delivered
+ORD1338,P013,-2,Jan 03 2025,Bengaluru,Debit Card,Delivered
+ORD1635,P-039,4,08-Dec-24,PUNE,Credit Card,Returned
+ORD2756,p032,10,Feb 19 2025,Chennai,U.P.I,Delivered
+ORD1959,P-002,4,2024-12-28,delhi,COD,Returned
+ORD2237,p016,N/A,12/01/2024,Delhi,UPI,Delivered
+ORD1097,P022,2,2025-02-26,Pune ,Debit Card,Delivered
+ORD1389,P018,1,24 December 2024,Hyderabad,Debit Card,Returned
+ORD1558,P034,9,10-Feb-25,Chennai,Cash_on_Delivery,Delivered
+ORD1153,P015,3,Jan 18 2025,Hyderabad,Credit Card,Delivered
+ORD1015,P003,8,02/23/2025,Kolkata ,Debit Card,Delivered
+ORD2254,P034,5,Dec 24 2024,Hyderabad,Cash on Delivery,Delivered
+ORD1398,P101 ,2,16-12-2024,chennai,Credit Card,Delivered
+ORD2543,P014,4,2025-01-16,kolkata,DebitCard,Delivered
+ORD1219,P011,9,2024-12-23,mumbai,Cash on Delivery,Returned
+ORD2680,P011,7,Feb 28 2025,hyderabad,credit card,Returned
+ORD1708,P039,3,26-Feb-25,Kolkata,DEBIT CARD,Delivered
+ORD2641,P019,2,01/14/2025,Pune,Net Banking,Cancelled
+ORD1473,p039,0,14/01/2025,Pune,Credit Card,Returned
+ORD2987,p013,7,02/03/2025,Bengaluru,UPI,Returned
+ORD1175,p021,5,Jan 01 2025,Bengaluru,COD,Delivered
+ORD2596,P022,5,2024-12-30,Pune,debit card,Delivered
+ORD1554,P022,7,2024-12-31,Ahmedabad,NET BANKING,Cancelled
+ORD1440,P-008,6,26/01/2025,Pune,CASH ON DELIVERY,Delivered
+ORD2103,P015 ,2,01 December 2024,Pune,CashonDelivery,Delivered
+ORD2094,P016,2,20 January 2025,Mumbai,Cash on Delivery,Delivered
+ORD1273,P016,,Feb 12 2025,Ahmedabad,UPI,Returned
+ORD1263,P007,2,2025-02-26,Mumbai,Debit Card,Delivered
+ORD1931,P003 ,4,13 December 2024,Ahmedabad,Credit Card,Delivered
+ORD1119,P019,8,10/02/2025,Delhi,Debit Card,Cancelled
+ORD2902,P025,9999,13 February 2025,delhi,UPI,Delivered
+ORD1094,P004,10,Dec 03 2024,Pune,Credit Card,Returned
+ORD1835,P036,7,Dec 28 2024,Bengaluru,DEBIT CARD,Cancelled
+ORD2218, P021,8,03-Jan-25,Chennai,net banking,Returned
+ORD2080, P039,4,Feb 14 2025,Hyderabad,cash on delivery,Delivered
+ORD2441,P011 ,10,Jan 05 2025,Delhi,Net Banking,Delivered
+ORD1730,P006 ,-2,01/11/2025,kolkata,CreditCard,Delivered
+ORD2630,P006,4,2025-02-17,delhi,Debit Card,Cancelled
+ORD2380,P024,8,21 January 2025,Mumbai,NET BANKING,Returned
+ORD2801,P021,8,2025-01-26,Mumbai,Cash on Delivery,Cancelled
+ORD1754, P001,9,01/02/2025,BENGALURU,Debit Card,Returned
+ORD1492,P023,5,22-Jan-25,Chennai,Debit Card,Cancelled
+ORD1997,P006,2,Feb 24 2025,Mumbai,Debit Card,Returned
+ORD1878,P033,1,2024-12-08,chennai,Cash on Delivery,Returned
+ORD2907,P008,4,Feb 10 2025,Delhi,UPI,Delivered
+ORD1406,P008,8,18-12-2024, Mumbai,Credit Card,Cancelled
+ORD1723,P009 ,6,Dec 24 2024,Delhi,upi,Delivered
+ORD1512,P018,2,02 February 2025,Delhi,Credit Card,Delivered
+ORD2387,P023,7,22/02/2025,Pune,credit card,Delivered
+ORD1823,P021,2,21/02/2025,Chennai,Debit Card,Delivered
+,P-006,2,24-Feb-25, Bengaluru,DebitCard,Returned
+ORD1869,P023,1,22 December 2024,pune,Net Banking,Delivered
+ORD2199,P036,10,04-02-2025,Delhi,upi,Returned
+ORD2621,P100,8,01-03-2025,mumbai,CC,Cancelled
+ORD2579,P018,4,Jan 25 2025,Ahmedabad,COD,Returned
+ORD2126,P013,1,15-Jan-25,AHMEDABAD,Net Banking,Cancelled
+ORD2362,P036,3,2024-12-19, Hyderabad,cash on delivery,Delivered
+ORD1485,P003,4,14-01-2025,pune,CASH ON DELIVERY,Delivered
+ORD2599,P017,2,02/25/2025,Kolkata,credit card,Delivered
+ORD2660,P015,7,02-Dec-24,Hyderabad,Cash on Delivery,Delivered
+ORD2185,P030,3,01/18/2025,Bengaluru,U.P.I,Cancelled
+ORD1748,P008,2,03-02-2025,Bengaluru,Credit_Card,Cancelled
+ORD2635, P017,5,22/02/2025,Chennai,UPI,Delivered
+,P031,7,15-Feb-25,MUMBAI,Credit Card,Delivered
+ORD1225,P039,1,13-Dec-24,Hyderabad,CREDIT CARD,Delivered
+ORD1320,P013,8,2025-01-05,Hyderabad,NetBanking,Returned
+ORD2442,P007,10,02/13/2025,Delhi,COD,Delivered
+ORD2852,P023,9,Dec 11 2024, Kolkata,Debit Card,Delivered
+ORD1815,P011,1,Jan 20 2025,AHMEDABAD,Cash on Delivery,Delivered
+ORD1448,P003,6,12/01/2025,Mumbai,Net Banking,Returned
+ORD2393,P002,5,11-Jan-25,Chennai,net banking,Delivered
+ORD1643,P001,10,02/10/2025,Ahmedabad,UPI,Delivered
+ORD1641,P033,2,18 January 2025,Chennai,Cash on Delivery,Delivered
+ORD2084,P031,5,04-02-2025,Delhi,CashonDelivery,Cancelled
+ORD1365,P040,4,2025-01-26,BENGALURU,Cash on Delivery,Delivered
+ORD2224,p036,10,03-Dec-24,Bengaluru,NET BANKING,Delivered
+ORD2436,P030,7,18 February 2025,Bengaluru,Cash on Delivery,Cancelled
+ORD1886,P003,4,12/08/2024,Ahmedabad,NET BANKING,Delivered
+ORD2113,p040,4,12/06/2024,delhi,cash on delivery,Delivered
+ORD2960,P004,9,28 January 2025,pune,Net Banking,Delivered
+ORD1069,P036,3,Feb 18 2025,Hyderabad,Cash on Delivery,Returned
+ORD2177,p011,,22-Dec-24,Hyderabad,Debit Card,Returned
+ORD1553,P039,2,2024-12-24,mumbai,UPI,Delivered
+ORD2324,P001,7,14-01-2025,Bengaluru,UPI,Returned
+ORD2620,P-036,-2,28 December 2024,Kolkata,Net Banking,Delivered
+ORD2174,p039,6,21-02-2025,Calcutta,credit card,Delivered
+ORD2940,p018,4,14-01-2025,Kolkata ,Cash_on_Delivery,Delivered
+ORD1785,P014,-,26-Jan-25,Mumbai ,credit card,Delivered
+ORD1073,P011,3,26 January 2025,Mumbai,Net Banking,Delivered
+,P002,9,2025-02-20,Ahmedabad,Cash on Delivery,Delivered
+ORD1898,P005,3,10 December 2024,Pune,Cash_on_Delivery,Returned
+ORD1215,P006,9,05 January 2025,delhi,UPI,Returned
+ORD2553,P031,1,Dec 31 2024,Chennai,UPI,Delivered
+ORD1081,P006,0,17-12-2024,chennai,Credit Card,Delivered
+ORD2734,P022,1,Jan 10 2025,hyderabad,UPI,Delivered
+ORD2350,P021,9,11 January 2025,Chennai,Credit Card,Delivered
+ORD1064,P012,4,08-02-2025,Kolkata,Cash on Delivery,Returned
+ORD2389,P023,4,01/14/2025,CHENNAI,Cash on Delivery,Cancelled
+ORD2262,P040,,20/02/2025,Bengaluru,credit card,Cancelled
+ORD1713,P039,1,Feb 12 2025,Mumbai,DC,Returned
+ORD1943,P026,2,11-Jan-25,Hyderabad,NET BANKING,Delivered
+ORD1160,P036,8,28-12-2024,Hyderabad,U.P.I,Cancelled
+ORD1040,P023,1,04-12-2024,KOLKATA,NetBanking,Delivered
+ORD1207,P023,2,01/09/2025,Kolkata,credit card,Delivered
+ORD1796,P023,10,23-01-2025,Delhi,NetBanking,Cancelled
+ORD2689,P002,6,10 December 2024,Kolkata,Cash on Delivery,Delivered
+ORD2247,P014,1,Dec 13 2024,BENGALURU,Credit Card,Delivered
+ORD1392,P036,7,07 February 2025,Pune,CASH ON DELIVERY,Cancelled
+ORD1053,P020,7,27/01/2025,Ahmedabad,Debit_Card,Returned
+ORD1946,P030,5,Dec 18 2024,kolkata,Credit Card,Cancelled
+ORD1252,P002,5,05-Jan-25,Pune,Debit Card,Delivered
+ORD1076,P004,9,12/30/2024,Ahmedabad ,UPI,Cancelled
+ORD1481,P003,8,05-Feb-25,ahmedabad,Cash on Delivery,Delivered
+ORD2570,P029,,01 January 2025,hyderabad,Credit Card,Delivered
+ORD2463,P039 ,10,Jan 13 2025,MUMBAI,net banking,Delivered
+ORD1184,P024,9,25/02/2025,BENGALURU,Credit Card,Delivered
+ORD1581, P035,8,13-Feb-25,Ahmedabad,Credit Card,Cancelled
+ORD2923,P010,3,Feb 12 2025,Bengaluru,UPI,Cancelled
+ORD2023,P015,3,25/01/2025,Delhi,NetBanking,Delivered
+ORD1444,p009,10,25 January 2025,hyderabad,Net Banking,Returned
+ORD2460,P007,2,06/01/2025,Kolkata,Credit Card,Delivered
+ORD2062,P038,4,22 December 2024,hyderabad,UPI,Returned
+ORD1086,P025,2,30 January 2025,Delhi,UPI,Returned
+ORD1697,P010,,11-02-2025,Mumbai,Net Banking,Returned
+ORD2172,P040,2,2024-12-15,Kolkata,Net Banking,Delivered
+ORD1655,P028 ,7,02/09/2025,Ahmedabad,UPI,Returned
+ORD2462,P014 ,5,Dec 21 2024,Kolkata,Net Banking,Returned
+ORD1073,P011,3,26 January 2025,Mumbai,Net Banking,Delivered
+ORD2139,P013,5,13-01-2025,Delhi,Debit Card,Cancelled
+ORD1255,P037,4,26-02-2025,Pune,upi,Delivered
+ORD1596, P035,7,2025-01-23,HYDERABAD,Credit Card,Returned
+ORD1503,P022,6,2025-01-11,Chennai,Credit Card,Delivered
+ORD2421,P035,4,2024-12-06,Chennai,NET BANKING,Delivered
+ORD2681,P027,,2025-02-13,DELHI,UPI,Delivered
+ORD2652,P018,3,2025-01-19,kolkata,CC,Returned
+ORD2658,p021,4,16 February 2025,Madras,Debit Card,Returned
+ORD2476,P036,5,25/01/2025,Delhi,Debit Card,Cancelled
+ORD2002,p031,1,05 January 2025,bengaluru,Debit_Card,Returned
+ORD2209,P026,8,29-Dec-24,Kolkata,Cash on Delivery,Returned
+ORD2372,P027,3,12/03/2024,Delhi,Net Banking,Delivered
+ORD2010,P100,7,2024-12-18,PUNE,debit card,Delivered
+ORD2495,P014,5,Dec 19 2024,bengaluru,UPI,Delivered
+ORD1522,P037,,Dec 24 2024,hyderabad,CREDIT CARD,Delivered
+ORD1197,p099,8,02/01/2025,Pune,UPI,Delivered
+ORD2468, P037,4,2025-01-03,pune,UPI,Cancelled
+ORD2298,P021,1,2025-01-21,Bengaluru,Cash on Delivery,Cancelled
+ORD1911,P019,4,18/12/2024,AHMEDABAD,UPI,Delivered
+ORD2215,P031,3,28/12/2024,Bengaluru,UPI,Delivered
+,P028,9,08-Jan-25,mumbai,CREDIT CARD,Delivered
+ORD1821,p001,10,Jan 05 2025, Ahmedabad,Credit Card,Delivered
+ORD1516,P006,3,21-01-2025,Delhi,UPI,Returned
+ORD1209,P004,2,2024-12-04,Pune,Cash on Delivery,Delivered
+ORD1953,p038,3,16 December 2024,Chennai,Debit Card,Delivered
+,P015,10,27-12-2024, Kolkata,COD,Returned
+ORD1616,p018,7,02/27/2025,pune,UPI,Cancelled
+ORD1004,P023,4,Jan 16 2025,Hyderabad,U.P.I,Delivered
+ORD1910,P024,1,30/12/2024,DELHI,cash on delivery,Returned
+ORD1619,P-037,6,2024-12-12,Delhi,Net Banking,Cancelled
+ORD2307,p033,4,24-Dec-24,Bengaluru,debit card,Cancelled
+ORD2971,P018,2,2024-12-17,Chennai ,Credit Card,Delivered
+ORD2612,P027,1,15-12-2024,Kolkata,Cash on Delivery,Delivered
+ORD2342,p027,2,2025-02-02,Pune,Credit Card,Cancelled
+ORD2508,P008,10,2025-02-26,Ahmedabad,Credit Card,Returned
+ORD2519, P015,1,11/01/2025,Hyderabad,Debit_Card,Delivered
+ORD1438,P023,3,2024-12-27,chennai,U.P.I,Delivered
+ORD1489,P032,2,30/01/2025,Kolkata,Credit_Card,Delivered
+ORD1344,p001,1,Jan 01 2025,Kolkata,CashonDelivery,Delivered
+ORD1841,P001,1,Feb 24 2025,kolkata,Cash on Delivery,Returned
+ORD1397,P017,5,06-12-2024, Delhi,NetBanking,Cancelled
+ORD2591,P016,8,29-Jan-25, Ahmedabad,Cash_on_Delivery,Delivered
+ORD1241,P007 ,7,12/25/2024,Bengaluru,upi,Delivered
+ORD2312,P003,5,18-02-2025,Bengaluru ,CASH ON DELIVERY,Delivered
+ORD2287,P025,2,02/24/2025,Pune,Credit Card,Cancelled
+ORD1538,P020,9,12/19/2024,Kolkata,CASH ON DELIVERY,Cancelled
+ORD2862,P007,4,21 February 2025,Chennai,Debit Card,Returned
+ORD2584,P006,10,Dec 21 2024,HYDERABAD,Debit Card,Delivered
+ORD2088,P006,6,02-Feb-25,Ahmedabad,Cash on Delivery,Cancelled
+ORD2864,P034,9,28 December 2024,Kolkata,Cash on Delivery,Returned
+ORD2839,P033,7,2025-01-19,Hyderabad,Net Banking,Returned
+ORD2613,P035,5,07 December 2024,delhi,cash on delivery,Cancelled
+ORD1319,p040,4,21-Jan-25,Pune,Cash on Delivery,Delivered
+ORD1091,P018,9,01/26/2025,Kolkata ,DEBIT CARD,Delivered
+ORD1825,P001,9,27 February 2025,Hyderabad,Net Banking,Cancelled
+ORD1838,P026,1,Jan 02 2025,Chennai,UPI,Returned
+ORD2339,P036,8,02/23/2025,Delhi,Net Banking,Delivered
+ORD1201,P001,4,2025-02-22,Bengaluru,cash on delivery,Delivered
+ORD2028,P039,2,2024-12-25,Mumbai,U.P.I,Delivered
+ORD2901,P006,none,19-12-2024,delhi,Credit Card,Delivered
+ORD1742, P024,9,2025-01-27,Pune,DC,Delivered
+ORD2000,P031,4,02/10/2025,Pune,NET BANKING,Cancelled
+ORD2706,P022,9,17-Jan-25,KOLKATA,credit card,Delivered
+ORD1618,P022,7,11-12-2024,Hyderabad,Cash on Delivery,Delivered
+ORD2225,P023,8,Dec 26 2024,mumbai,NET BANKING,Delivered
+ORD2530,P008,1,19-Dec-24,Delhi,Net Banking,Delivered
+ORD1996,P010,5,Dec 26 2024,Mumbai,Cash on Delivery,Delivered
+ORD1705,P014,8,2025-02-11,kolkata,UPI,Delivered
+ORD2714,P017,6,07-Dec-24,Delhi,Credit Card,Returned
+ORD2983,P-028,3,12-02-2025,Pune,Net Banking,Delivered
+ORD2610,P039,,27-01-2025,Mumbai,Cash on Delivery,Delivered
+ORD2193,P008,6,2024-12-07,chennai,upi,Cancelled
+ORD2536,P025,none,Feb 14 2025,Kolkata,debit card,Delivered
+ORD2381,P016,10,19-Jan-25,Mumbai,CASH ON DELIVERY,Returned
+ORD2588,P037,0,23 January 2025,Mumbai ,Cash on Delivery,Returned
+ORD2709,P033,10,01/12/2024,Kolkata,cash on delivery,Cancelled
+ORD1037,P003,9,Jan 06 2025,Hyderabad,Debit Card,Delivered
+ORD2132,p039,10,15-Dec-24,ahmedabad,Cash on Delivery,Returned
+ORD1716,P016,4,2025-02-13,Bombay,Debit Card,Returned
+ORD1764,P011,7,13-12-2024,Ahmedabad,Debit Card,Cancelled

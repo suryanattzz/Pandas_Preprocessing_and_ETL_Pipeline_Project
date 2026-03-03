@@ -13,8 +13,8 @@ def extract():
     print("="*60)
     
     # Define file paths
-    sales_file = "sales_data.csv"
-    customer_file = "customer_data.json"
+    sales_file = "../data/raw/sales_data.csv"
+    customer_file = "../data/raw/customer_data.json"
     
     try:
         print(f"\n📂 Loading {sales_file}...")
@@ -144,7 +144,7 @@ def load(df_sales, df_customers):
     Creates the folder if it doesn't exist.
     """
     # Create output folder if it doesn't exist
-    output_folder = Path("output")
+    output_folder = Path("../output")
     output_folder.mkdir(exist_ok=True)
     
     # Define output file paths

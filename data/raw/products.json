@@ -1,0 +1,242 @@
+[
+  {
+    "product_id": "P001",
+    "product_name": "Tata Salt 1kg",
+    "category": "Staples",
+    "unit_price": 22.0
+  },
+  {
+    "product_id": "P002",
+    "product_name": "Aashirvaad Atta 5kg",
+    "category": "Staples",
+    "unit_price": 275.0
+  },
+  {
+    "product_id": "P003",
+    "product_name": "Fortune Sunflower Oil 1L",
+    "category": "Staples",
+    "unit_price": 135.0
+  },
+  {
+    "product_id": "P004",
+    "product_name": "India Gate Basmati 1kg",
+    "category": "Staples",
+    "unit_price": 110.0
+  },
+  {
+    "product_id": "P005",
+    "product_name": "Toor Dal 500g",
+    "category": "Staples",
+    "unit_price": 68.0
+  },
+  {
+    "product_id": "P006",
+    "product_name": "Amul Full Cream Milk 1L",
+    "category": "Dairy",
+    "unit_price": 68.0
+  },
+  {
+    "product_id": "P007",
+    "product_name": "Amul Butter 500g",
+    "category": "Dairy",
+    "unit_price": 285.0
+  },
+  {
+    "product_id": "P008",
+    "product_name": "Mother Dairy Curd 400g",
+    "category": "Dairy",
+    "unit_price": 48.0
+  },
+  {
+    "product_id": "P009",
+    "product_name": "Amul Cheese Slices 200g",
+    "category": "Dairy",
+    "unit_price": 135.0
+  },
+  {
+    "product_id": "P010",
+    "product_name": "Nandini Paneer 200g",
+    "category": "Dairy",
+    "unit_price": 90.0
+  },
+  {
+    "product_id": "P011",
+    "product_name": "Lay's Classic Salted 26g",
+    "category": "Snacks",
+    "unit_price": 20.0
+  },
+  {
+    "product_id": "P012",
+    "product_name": "Bingo Mad Angles 90g",
+    "category": "Snacks",
+    "unit_price": 35.0
+  },
+  {
+    "product_id": "P013",
+    "product_name": "Britannia Good Day 120g",
+    "category": "Snacks",
+    "unit_price": 30.0
+  },
+  {
+    "product_id": "P014",
+    "product_name": "Haldiram Bhujia 200g",
+    "category": "Snacks",
+    "unit_price": 80.0
+  },
+  {
+    "product_id": "P015",
+    "product_name": "Parle-G Biscuits 800g",
+    "category": "Snacks",
+    "unit_price": 65.0
+  },
+  {
+    "product_id": "P016",
+    "product_name": "Coca-Cola 750ml",
+    "category": "Beverages",
+    "unit_price": 40.0
+  },
+  {
+    "product_id": "P017",
+    "product_name": "Tropicana Orange 1L",
+    "category": "Beverages",
+    "unit_price": 120.0
+  },
+  {
+    "product_id": "P018",
+    "product_name": "Red Bull 250ml",
+    "category": "Beverages",
+    "unit_price": 125.0
+  },
+  {
+    "product_id": "P019",
+    "product_name": "Tata Tea Premium 500g",
+    "category": "Beverages",
+    "unit_price": 220.0
+  },
+  {
+    "product_id": "P020",
+    "product_name": "Nescafe Classic 50g",
+    "category": "Beverages",
+    "unit_price": 185.0
+  },
+  {
+    "product_id": "P021",
+    "product_name": "Tomato 1kg",
+    "category": "Vegetables",
+    "unit_price": 35.0
+  },
+  {
+    "product_id": "P022",
+    "product_name": "Onion 1kg",
+    "category": "Vegetables",
+    "unit_price": 28.0
+  },
+  {
+    "product_id": "P023",
+    "product_name": "Potato 1kg",
+    "category": "Vegetables",
+    "unit_price": 25.0
+  },
+  {
+    "product_id": "P024",
+    "product_name": "Spinach 250g",
+    "category": "Vegetables",
+    "unit_price": 20.0
+  },
+  {
+    "product_id": "P025",
+    "product_name": "Capsicum 500g",
+    "category": "Vegetables",
+    "unit_price": 45.0
+  },
+  {
+    "product_id": "P026",
+    "product_name": "Surf Excel 1kg",
+    "category": "Household",
+    "unit_price": 195.0
+  },
+  {
+    "product_id": "P027",
+    "product_name": "Vim Dishwash Bar 200g",
+    "category": "Household",
+    "unit_price": 35.0
+  },
+  {
+    "product_id": "P028",
+    "product_name": "Harpic Power Plus 500ml",
+    "category": "Household",
+    "unit_price": 115.0
+  },
+  {
+    "product_id": "P029",
+    "product_name": "Colin Glass Cleaner 500ml",
+    "category": "Household",
+    "unit_price": 95.0
+  },
+  {
+    "product_id": "P030",
+    "product_name": "Lizol Disinfectant 1L",
+    "category": "Household",
+    "unit_price": 175.0
+  },
+  {
+    "product_id": "P031",
+    "product_name": "Dove Soap 100g",
+    "category": "Personal Care",
+    "unit_price": 55.0
+  },
+  {
+    "product_id": "P032",
+    "product_name": "Head & Shoulders 340ml",
+    "category": "Personal Care",
+    "unit_price": 299.0
+  },
+  {
+    "product_id": "P033",
+    "product_name": "Colgate Strong Teeth 300g",
+    "category": "Personal Care",
+    "unit_price": 129.0
+  },
+  {
+    "product_id": "P034",
+    "product_name": "Dettol Handwash 250ml",
+    "category": "Personal Care",
+    "unit_price": 89.0
+  },
+  {
+    "product_id": "P035",
+    "product_name": "Himalaya Face Wash 100ml",
+    "category": "Personal Care",
+    "unit_price": 105.0
+  },
+  {
+    "product_id": "P036",
+    "product_name": "Maggi Noodles 70g",
+    "category": "Ready to Cook",
+    "unit_price": 14.0
+  },
+  {
+    "product_id": "P037",
+    "product_name": "MTR Upma Mix 200g",
+    "category": "Ready to Cook",
+    "unit_price": 55.0
+  },
+  {
+    "product_id": "P038",
+    "product_name": "Knorr Soup Tomato 44g",
+    "category": "Ready to Cook",
+    "unit_price": 40.0
+  },
+  {
+    "product_id": "P039",
+    "product_name": "Sunfeast Yippee Noodles",
+    "category": "Ready to Cook",
+    "unit_price": 14.0
+  },
+  {
+    "product_id": "P040",
+    "product_name": "Haldiram Dal Makhani 300g",
+    "category": "Ready to Cook",
+    "unit_price": 85.0
+  }
+]
