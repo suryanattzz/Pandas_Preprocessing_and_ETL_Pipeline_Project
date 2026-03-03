@@ -168,58 +168,7 @@ def load(df_sales, df_customers):
         print(f"\n❌ ERROR: Failed to save output files!")
         print(f"   {str(e)}")
         print("\n   Pipeline aborted.")
-        exit(1)
-
-
-def generate_business_insights(df_sales, df_customers):
-    
-    # Q1: Total Revenue
-    print("\n📊 Q1: What is the total revenue generated across all orders?")
-    total_revenue = df_sales['total_amount'].sum()
-    print(f"   ANSWER: ₹{total_revenue:,.2f}")
-    
-    # Q2: Top Revenue Category
-    print("\n📊 Q2: Which product category contributed the highest total revenue?")
-    category_revenue = df_sales.groupby('category')['total_amount'].sum().sort_values(ascending=False)
-    top_category = category_revenue.idxmax()
-    top_category_revenue = category_revenue.max()
-    category_percent = (top_category_revenue / total_revenue) * 100
-    print(f"   ANSWER: {top_category}")
-    print(f"   Revenue: ₹{top_category_revenue:,.2f} ({category_percent:.1f}% of total)")
-    
-    # Q3: Most Ordered Product
-    print("\n📊 Q3: Which product was ordered the most by total quantity sold?")
-    product_qty = df_sales.groupby('product_name')['quantity'].sum().sort_values(ascending=False)
-    top_product = product_qty.idxmax()
-    top_product_qty = product_qty.max()
-    print(f"   ANSWER: {top_product}")
-    print(f"   Total Quantity Sold: {top_product_qty:,} units")
-    
-    # Q4: Top City by Order Count
-    print("\n📊 Q4: Which city placed the highest number of orders?")
-    # Using customer data's total_orders field aggregated by city
-    city_orders = df_customers.groupby('city')['total_orders'].sum().sort_values(ascending=False)
-    top_city = city_orders.idxmax()
-    top_city_orders = city_orders.max()
-    print(f"   ANSWER: {top_city}")
-    print(f"   Total Orders: {top_city_orders:,}")
-    
-    # Q5: Zero Quantity Orders
-    print("\n📊 Q5: How many orders had missing/zero quantity data?")
-    # Check for 'unknown' in quantity (from null filling) or actual zeros
-    zero_qty_count = len(df_sales[df_sales['quantity'] == 0])
-    total_orders = len(df_sales)
-    zero_qty_percentage = (zero_qty_count / total_orders) * 100
-    print(f"   ANSWER: {zero_qty_count:,} orders")
-    print(f"   Percentage: {zero_qty_percentage:.2f}% of total orders")
-    
-    # Q6: Average Order Value
-    print("\n📊 Q6: What is the average order value (average revenue per transaction)?")
-    total_orders = (df_customers['total_orders'].sum())
-    total_revenue = (df_customers['lifetime_value'].sum())
-    avg_order_value = total_revenue / total_orders if total_orders > 0 else 0
-    print(f"   ANSWER: ₹{avg_order_value:,.2f}")
-    
+        exit(1)    
 
 
 def main():
@@ -235,9 +184,6 @@ def main():
     
     # STEP 3: Load
     load(df_sales_clean, df_customers_clean)
-    
-    # STEP 4: Generate Business Insights
-    generate_business_insights(df_sales_clean, df_customers_clean)
     
     print("\n" + "="*60)
     print("✓ PIPELINE EXECUTION COMPLETED SUCCESSFULLY")
