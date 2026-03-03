@@ -61,3 +61,6 @@ ehthumbs.db
 *.log
 temp/
 debug/
+
+# Generated reports
+output/*.csv
